@@ -20,6 +20,7 @@ import com.squareup.picasso.Picasso;
 
 import java.util.Objects;
 
+import app.mediabrainz.MediaBrainzApp;
 import app.mediabrainz.R;
 import app.mediabrainz.apihandler.StringMapper;
 import app.mediabrainz.api.coverart.CoverArtImage;
@@ -80,7 +81,11 @@ public class ReleaseGroupsAdapter extends BasePagedListAdapter<ReleaseGroup> {
             String type = StringMapper.mapReleaseGroupTypeString(releaseGroup);
             releaseTypeYearView.setText(year + " (" + type + ")");
 
-            loadImage(releaseGroup.getId());
+            if (MediaBrainzApp.getPreferences().isLoadImagesEnabled()) {
+                loadImage(releaseGroup.getId());
+            } else {
+                imageView.setVisibility(View.VISIBLE);
+            }
             ratingContainer.setOnClickListener(v -> showRatingBar(releaseGroup));
         }
 

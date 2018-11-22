@@ -133,7 +133,7 @@
     <string name="r_status">Status: %1$s</string>
     <string name="r_catalog">Catalog: %1$s</string>
 
-    <!-- ReleaseDialogFragment -->
+
     <string name="rg_text">Choose a release</string>
 
     <!-- ReleaseInformationFragment -->

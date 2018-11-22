@@ -39,6 +39,7 @@ public class CoverArtAdapter extends BaseRecyclerViewAdapter<CoverArtAdapter.Cov
         }
 
         public void bindTo(@NonNull CoverArtImage coverArtImage) {
+
             coverartLoading.setVisibility(View.VISIBLE);
             Picasso.get().load(coverArtImage.getThumbnails().getLarge())
                     .into(coverart, new Callback() {

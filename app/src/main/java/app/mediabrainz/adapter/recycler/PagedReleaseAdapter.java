@@ -17,6 +17,7 @@ import com.squareup.picasso.Picasso;
 import java.util.List;
 import java.util.Objects;
 
+import app.mediabrainz.MediaBrainzApp;
 import app.mediabrainz.R;
 import app.mediabrainz.api.coverart.CoverArtImage;
 import app.mediabrainz.api.model.Label;
@@ -109,8 +110,10 @@ public class PagedReleaseAdapter extends BasePagedListAdapter<Release> {
             String f = StringFormat.buildReleaseFormatsString(itemView.getContext(), medias);
             format.setText(itemView.getResources().getString(R.string.r_tracks, f, trackCount));
 
-            if (release.getCoverArt() != null &&
-                    release.getCoverArt().getFront() != null && release.getCoverArt().getFront()) {
+            if (MediaBrainzApp.getPreferences().isLoadImagesEnabled() &&
+                    release.getCoverArt() != null &&
+                    release.getCoverArt().getFront() != null &&
+                    release.getCoverArt().getFront()) {
 
                 showImageProgressLoading(true);
                 api.getReleaseCoverArt(

@@ -13,6 +13,7 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
+import app.mediabrainz.MediaBrainzApp;
 import app.mediabrainz.R;
 import app.mediabrainz.apihandler.StringMapper;
 import app.mediabrainz.api.core.ApiUtils;
@@ -68,7 +69,11 @@ public class ReleaseGroupSearchAdapter extends BaseRecyclerViewAdapter<ReleaseGr
             }
             releaseType.setText(StringMapper.mapReleaseGroupOneType(releaseGroup));
 
-            loadImage(releaseGroup.getId());
+            if (MediaBrainzApp.getPreferences().isLoadImagesEnabled()) {
+                loadImage(releaseGroup.getId());
+            } else {
+                coverart.setVisibility(View.VISIBLE);
+            }
         }
 
         private void loadImage(String mbid) {

@@ -16,6 +16,7 @@ import android.widget.TextView;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 
+import app.mediabrainz.MediaBrainzApp;
 import app.mediabrainz.R;
 import app.mediabrainz.api.coverart.CoverArtImage;
 import app.mediabrainz.api.model.Rating;
@@ -71,8 +72,12 @@ public class ReleaseGroupCollectionAdapter extends BaseRecyclerViewAdapter<Relea
             releaseGroupName.setText(releaseGroup.getTitle());
             setUserRating(releaseGroup);
             setAllRating(releaseGroup);
-            loadImage(releaseGroup.getId());
 
+            if (MediaBrainzApp.getPreferences().isLoadImagesEnabled()) {
+                loadImage(releaseGroup.getId());
+            } else {
+                coverart.setVisibility(View.VISIBLE);
+            }
             ratingContainer.setOnClickListener(v -> showRatingBar(releaseGroup));
         }
 
