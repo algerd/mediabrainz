@@ -5,7 +5,6 @@ import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.database.Cursor;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
@@ -25,9 +24,11 @@ import app.mediabrainz.apihandler.Api;
 import app.mediabrainz.intent.ActivityFactory;
 import app.mediabrainz.intent.zxing.IntentIntegrator;
 import app.mediabrainz.suggestion.SuggestionHelper;
+import app.mediabrainz.util.MbUtils;
 
 import static app.mediabrainz.MediaBrainzApp.SUPPORT_MAIL;
 import static app.mediabrainz.MediaBrainzApp.oauth;
+
 
 public abstract class BaseActivity extends AppCompatActivity implements
         NavigationView.OnNavigationItemSelectedListener,
@@ -111,14 +112,9 @@ public abstract class BaseActivity extends AppCompatActivity implements
     }
 
     private void sendEmail() {
-        Intent i = new Intent(Intent.ACTION_SENDTO);
-        i.setType("message/rfc822");
-        i.setData(Uri.parse("mailto:"));
-        i.putExtra(Intent.EXTRA_EMAIL  , new String[]{SUPPORT_MAIL});
-        i.putExtra(Intent.EXTRA_SUBJECT, Api.CLIENT);
-        //i.putExtra(Intent.EXTRA_TEXT   , "body of email");
         try {
-            startActivity(Intent.createChooser(i, getString(R.string.send_mail)));
+            startActivity(Intent.createChooser(
+                    MbUtils.emailIntent(SUPPORT_MAIL, Api.CLIENT), getString(R.string.choose_email_client)));
         } catch (android.content.ActivityNotFoundException ex) {
             Toast.makeText(this, getString(R.string.send_mail_error), Toast.LENGTH_SHORT).show();
         }

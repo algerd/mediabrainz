@@ -56,6 +56,7 @@ import static app.mediabrainz.api.model.Collection.RELEASE_GROUP_ENTITY_TYPE;
 import static app.mediabrainz.api.model.Collection.RELEASE_GROUP_TYPE;
 import static app.mediabrainz.api.model.Collection.RELEASE_TYPE;
 
+
 public class ReleaseActivity extends BaseBottomNavActivity implements
         ShowFloatingActionButtonCommunicator,
         OnArtistCommunicator,

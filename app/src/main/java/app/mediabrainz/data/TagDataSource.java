@@ -14,6 +14,7 @@ import app.mediabrainz.api.site.TagServiceInterface;
 
 import static app.mediabrainz.MediaBrainzApp.api;
 
+
 public class TagDataSource extends PageKeyedDataSource<Integer, TagEntity> {
 
     private CompositeDisposable compositeDisposable;

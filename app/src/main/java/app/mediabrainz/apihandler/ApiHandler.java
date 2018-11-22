@@ -14,6 +14,7 @@ import retrofit2.adapter.rxjava2.Result;
 import app.mediabrainz.functions.Consumer;
 import app.mediabrainz.functions.ErrorHandler;
 
+
 public class ApiHandler {
 
     private static final long DELAY_503 = 1000;

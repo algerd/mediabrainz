@@ -13,9 +13,6 @@ import java.util.List;
 import app.mediabrainz.R;
 import app.mediabrainz.api.model.Area;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class AreaCollectionAdapter extends BaseRecyclerViewAdapter<AreaCollectionAdapter.AreaCollectionViewHolder> {
 

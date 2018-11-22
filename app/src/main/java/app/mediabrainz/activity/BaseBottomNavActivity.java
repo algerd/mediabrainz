@@ -15,6 +15,7 @@ import app.mediabrainz.communicator.ShowTitleCommunicator;
 import app.mediabrainz.ui.CustomViewPager;
 import app.mediabrainz.util.BottomNavigationBehavior;
 
+
 public abstract class BaseBottomNavActivity extends BaseActivity implements
         ShowTitleCommunicator {
 

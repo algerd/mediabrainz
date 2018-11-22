@@ -19,6 +19,7 @@ import app.mediabrainz.util.ShowUtil;
 
 import static app.mediabrainz.MediaBrainzApp.api;
 
+
 public class TagActivity extends BaseActivity implements
         OnArtistCommunicator,
         OnReleaseGroupCommunicator,

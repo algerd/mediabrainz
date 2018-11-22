@@ -11,9 +11,6 @@ import app.mediabrainz.api.site.TagEntity;
 
 import java.util.List;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class ArtistTagAdapter extends BaseRecyclerViewAdapter<ArtistTagAdapter.ArtistTagViewHolder> {
 

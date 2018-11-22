@@ -17,6 +17,7 @@ import app.mediabrainz.util.ShowUtil;
 
 import static app.mediabrainz.MediaBrainzApp.oauth;
 
+
 public class LoginActivity extends BaseActivity {
 
     private final String CREATE_ACCOUNT_URI = "https://musicbrainz.org/register";

@@ -14,6 +14,7 @@ import app.mediabrainz.api.model.Release;
 
 import java.util.List;
 
+
 public class TrackSearchAdapter extends BaseRecyclerViewAdapter<TrackSearchAdapter.TrackSearchViewHolder> {
 
     private List<Recording> recordings;

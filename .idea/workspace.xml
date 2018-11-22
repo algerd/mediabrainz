@@ -25,19 +25,123 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Roboto-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Roboto-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_artist_relations_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_gift_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_help_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_home_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_image_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_link_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_person_24_dark.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_right_arrow_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/custom_tab.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_release_info.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/MediaBrainzApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/MediaBrainzApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/account/MediaBrainzAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/account/MediaBrainzAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/account/MediaBrainzAuthenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/account/MediaBrainzAuthenticator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/account/MediaBrainzAuthenticatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/account/MediaBrainzAuthenticatorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/account/OAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/account/OAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/AboutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/AboutActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/BaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/BaseBottomNavActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/BaseBottomNavActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/ReleaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/ReleaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/SearchActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/SearchActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/SearchType.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/SearchType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/TagActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/TagActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/UserActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/UserActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/pager/BaseFragmentPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/pager/BaseFragmentPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/pager/FragmentPagerAdapterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/pager/FragmentPagerAdapterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/AreaCollectionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/AreaCollectionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ArtistCollectionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ArtistCollectionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ArtistRatingsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ArtistRatingsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ArtistSearchAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ArtistSearchAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ArtistTagAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ArtistTagAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/BasePagedListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/BasePagedListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/BaseRecyclerViewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/BaseRecyclerViewAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/CollectionsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/CollectionsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/CoverArtAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/CoverArtAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/CreditsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/CreditsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/DialogCollectionsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/DialogCollectionsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/EntityTagAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/EntityTagAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/EventCollectionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/EventCollectionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/LabelCollectionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/LabelCollectionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/LinkAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/LinkAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/PagedArtistTagAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/PagedArtistTagAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/PagedEntityTagAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/PagedEntityTagAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/PlaceCollectionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/PlaceCollectionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/RecordingCollectionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/RecordingCollectionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/RecordingRatingsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/RecordingRatingsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseCollectionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseCollectionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupCollectionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupCollectionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupRatingsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupRatingsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupSearchAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupSearchAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/SeriesCollectionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/SeriesCollectionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/TagAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/TagAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/TrackSearchAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/TrackSearchAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/UserTagsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/UserTagsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/WorkCollectionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/WorkCollectionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/artistRelations/ArtistRelationsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/artistRelations/ArtistRelationsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/artistRelations/EmptyFooterViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/artistRelations/EmptyFooterViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/artistRelations/Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/artistRelations/Header.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/artistRelations/HeaderViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/artistRelations/HeaderViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/artistRelations/ItemViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/artistRelations/ItemViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/expandedRecycler/BaseHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/expandedRecycler/BaseHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/expandedRecycler/BaseItemViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/expandedRecycler/BaseItemViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/expandedRecycler/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/expandedRecycler/Section.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/EmptyFooterViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/EmptyFooterViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/Header.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/HeaderViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/HeaderViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/ItemViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/ItemViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/TracksAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/TracksAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/apihandler/ApiHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/apihandler/ApiHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/apihandler/HttpException.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/apihandler/HttpException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/apihandler/StringMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/apihandler/StringMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetArtistCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetArtistCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetCollectionCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetCollectionCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetCollectionsCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetCollectionsCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetGenresCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetGenresCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetRecordingCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetRecordingCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetReleaseCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetReleaseCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetReleaseGroupCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetReleaseGroupCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetReleaseGroupsCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetReleaseGroupsCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetReleasesCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetReleasesCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetTagCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetTagCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetTagsCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetTagsCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetUrlsCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetUrlsCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetUserTagEntitiesCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetUserTagEntitiesCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetUsernameCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetUsernameCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetWorkCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetWorkCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/LoadingCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/LoadingCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnArtistCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnArtistCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnCollectionCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnCollectionCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnCreateCollectionCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnCreateCollectionCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnDeleteCollectionCommunicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnDeleteEntityFromCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnRecordingCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnRecordingCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnReleaseCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnReleaseCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnReleaseGroupCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnReleaseGroupCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnTagCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnTagCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnUserTagCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnUserTagCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/SetWebViewCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/SetWebViewCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/ShowFloatingActionButtonCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/ShowFloatingActionButtonCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/ShowTitleCommunicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/ShowTitleCommunicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/data/RatingsDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/data/RatingsDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/data/ReleaseGroupsDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/data/ReleaseGroupsDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/data/ReleasesDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/data/ReleasesDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/data/TagDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/data/TagDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/AboutFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/AboutFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/SearchFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/SearchFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserProfileFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserProfileFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/DisposableAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/DisposableAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/ErrorHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/ErrorHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/intent/ActivityFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/intent/ActivityFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/suggestion/SuggestionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/suggestion/SuggestionHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/suggestion/SuggestionProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/suggestion/SuggestionProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/CustomViewPager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/CustomViewPager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/view/HtmlAssetTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/view/HtmlAssetTextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/BottomNavigationBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/BottomNavigationBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/FloatingActionButtonBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/FloatingActionButtonBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/MbUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/MbUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/ScrollAwareFABBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/ShowUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/ShowUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/StringFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/StringFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,22 +173,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ArtistInfoPagerAdapter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/pager/ArtistInfoPagerAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-              <folding>
-                <element signature="e#777#806#0" expanded="true" />
-                <element signature="e#847#881#0" expanded="true" />
-                <element signature="e#918#948#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -2710,57 +2799,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/SeriesCollectionAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/TracksAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/apihandler/StringMapper.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ArtistInfoPagerFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/BarcodeSearchFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/CollectionsTabFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/RecordingInformationFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseCoverArtFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseInfoPagerFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseRatingsFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseTracksFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/TagTabFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserRatingsPagerFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserRecommendsPagerFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserTagListFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserTagsPagerFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/WikipediaWebViewFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/pager/RecordingInfoPagerAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/pager/UserRatingsPagerAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/AreaCollectionAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/artistRelations/ItemViewHolder.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ArtistSearchAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/CreditsAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/LabelCollectionAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/PlaceCollectionAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/HeaderViewHolder.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/CollectionEditFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/RecordingLyricsFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseInfoTabFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/SettingsFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserRatingsTabFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserTagPagerFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/StringFormat.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/TagAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/TrackSearchAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/UserTagsAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ArtistRelationsTabFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/RecordingCreditsFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseGroupsPagerFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleasesFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/WorkCollectionAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/apihandler/ApiHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/apihandler/HttpException.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/apihandler/StringMapper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetArtistCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetCollectionCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetCollectionsCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetGenresCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetRecordingCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetReleaseCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetReleaseGroupCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetReleaseGroupsCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetReleasesCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetTagCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetTagsCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetUrlsCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetUsernameCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetUserTagEntitiesCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/GetWorkCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/LoadingCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnArtistCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnCollectionCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnCreateCollectionCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnDeleteCollectionCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnRecordingCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnReleaseCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnReleaseGroupCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnTagCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/OnUserTagCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/SetWebViewCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/ShowFloatingActionButtonCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/communicator/ShowTitleCommunicator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/data/RatingsDataSource.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/data/ReleaseGroupsDataSource.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/data/ReleasesDataSource.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/data/TagDataSource.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/AboutFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/SearchFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserProfileFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserRecommendsTabFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserTagsTabFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/CoverArtAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/PagedReleaseAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseCollectionAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupCollectionAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupsAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupSearchAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/dialog/ReleaseDialogFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/dialog/PagedReleaseDialogFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/Action.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/Consumer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/DisposableAction.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/ErrorHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/intent/ActivityFactory.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/suggestion/SuggestionHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/suggestion/SuggestionProvider.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/view/HtmlAssetTextView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/CustomViewPager.java" />
       </list>
     </option>
   </component>
@@ -2814,14 +2903,6 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
-              <item name="activity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
               <item name="adapter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2832,6 +2913,95 @@
               <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
               <item name="adapter" type="462c0819:PsiDirectoryNode" />
               <item name="recycler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
+              <item name="apihandler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
+              <item name="communicator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
+              <item name="dialog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
+              <item name="fragment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
+              <item name="intent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
+              <item name="suggestion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mediabrainz" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
@@ -3135,7 +3305,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.7838765" />
@@ -3152,9 +3321,9 @@
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26636225" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27929986" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.35849056" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32761577" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32646048" />
       <window_info anchor="right" id="Gradle" order="7" weight="0.18949772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Device File Explorer" order="8" side_tool="true" weight="0.32952815" />
@@ -3178,439 +3347,366 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserTagsPagerFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/RecordingInfoPagerFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="132">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/WikipediaWebViewFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/RecordingInformationFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="132">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/pager/RecordingInfoPagerAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/RecordingInfoTabFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="e#779#811#0" expanded="true" />
-            <element signature="e#850#885#0" expanded="true" />
-            <element signature="e#922#952#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/pager/UserRatingsPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="e#518#546#0" expanded="true" />
-            <element signature="e#627#656#0" expanded="true" />
-            <element signature="e#728#759#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/AreaCollectionAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/artistRelations/ItemViewHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/CreditsAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/LabelCollectionAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/PlaceCollectionAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/tracks/HeaderViewHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="e#1175#1338#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/CollectionEditFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="132">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/RecordingLyricsFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="132">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseInfoTabFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/RecordingRatingsFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="132">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/SettingsFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseCoverArtFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="132">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserRatingsTabFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseCreditsFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserTagPagerFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/StringFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/UserTagsAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ArtistRelationsTabFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="e#3724#3759#0" expanded="true" />
-            <element signature="e#3761#3808#0" expanded="true" />
-            <element signature="e#3856#3888#0" expanded="true" />
-            <element signature="e#3890#3934#0" expanded="true" />
-            <element signature="e#3965#3986#0" expanded="true" />
-            <element signature="e#3988#4021#0" expanded="true" />
-            <element signature="e#4072#4103#0" expanded="true" />
-            <element signature="e#4105#4148#0" expanded="true" />
-            <element signature="e#4177#4197#0" expanded="true" />
-            <element signature="e#4199#4231#0" expanded="true" />
-            <element signature="e#4284#4316#0" expanded="true" />
-            <element signature="e#4318#4362#0" expanded="true" />
-            <element signature="e#4427#4465#0" expanded="true" />
-            <element signature="e#4467#4517#0" expanded="true" />
-            <element signature="e#4596#4641#0" expanded="true" />
-            <element signature="e#4643#4700#0" expanded="true" />
-            <element signature="e#4729#4749#0" expanded="true" />
-            <element signature="e#4751#4783#0" expanded="true" />
-            <element signature="e#4820#4844#0" expanded="true" />
-            <element signature="e#4846#4882#0" expanded="true" />
-            <element signature="e#4923#4949#0" expanded="true" />
-            <element signature="e#4951#4989#0" expanded="true" />
-            <element signature="e#5022#5044#0" expanded="true" />
-            <element signature="e#5046#5080#0" expanded="true" />
-            <element signature="e#5109#5129#0" expanded="true" />
-            <element signature="e#5131#5163#0" expanded="true" />
-            <element signature="e#5220#5254#0" expanded="true" />
-            <element signature="e#5256#5302#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/RecordingCreditsFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleasesFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserProfileFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserRecommendsTabFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserTagsTabFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/preferences.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-29" />
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/card_coverart.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-333" />
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/CoverArtAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ArtistCollectionAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="144" column="9" selection-start-line="144" selection-start-column="9" selection-end-line="144" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/dialog/CreateCollectionDialogFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/dialog/CollectionsDialogFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/dialog/ReleaseDialogFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupSearchAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupsAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="87" column="13" selection-start-line="83" selection-start-column="12" selection-end-line="87" selection-end-column="13" />
-          <folding>
-            <element signature="e#4097#4177#0" expanded="true" />
-            <element signature="e#8281#8361#0" expanded="true" />
-            <element signature="e#8428#8489#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseGroupCollectionAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="79" column="13" selection-start-line="75" selection-start-column="12" selection-end-line="79" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ReleaseCollectionAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/PagedReleaseAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="112" column="69" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/SearchListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-405">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/dialog/PagedReleaseDialogFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/recycler/ArtistSearchAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="84" column="13" selection-start-line="80" selection-start-column="12" selection-end-line="84" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/LazyFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_release_groups.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/pager/ArtistNavigationPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-          <folding>
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#928#929#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/pager/ReleaseGroupsPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        <state relative-caret-position="132">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseGroupsPagerFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        <state relative-caret-position="132">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseGroupsTabFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseInfoPagerFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseInformationFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseInfoTabFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseRatingsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleasesFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseTracksFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/SearchFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/SelectedSearchFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/SettingsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/TagTabFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserProfileFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserRatingsPagerFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserRatingsTabFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserRecommendsPagerFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserRecommendsTabFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserTagListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserTagPagerFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserTagsPagerFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/UserTagsTabFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/WikipediaWebViewFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/DisposableAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/functions/ErrorHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/intent/zxing/IntentIntegrator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="101" column="19" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/intent/zxing/IntentResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/intent/ActivityFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/suggestion/SuggestionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/suggestion/SuggestionProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/view/HtmlAssetTextView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/CustomViewPager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/RatingsViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/ReleaseGroupsViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/ReleasesViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/SmartNestedScrollView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/ui/TagViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/BottomNavigationBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/FloatingActionButtonBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/MbUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/ArtistActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/ShowUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="128" column="39" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
+        <state relative-caret-position="110">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/fragment/ReleaseGroupsTabFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/util/StringFormat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="59" column="63" selection-start-line="59" selection-start-column="63" selection-end-line="59" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_artist_relations_24.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_toolbar.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/adapter/pager/ArtistInfoPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        <state relative-caret-position="185">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
-            <element signature="e#777#806#0" expanded="true" />
-            <element signature="e#847#881#0" expanded="true" />
-            <element signature="e#918#948#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/MediaBrainzApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>

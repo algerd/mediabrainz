@@ -13,9 +13,6 @@ import java.util.List;
 import app.mediabrainz.R;
 import app.mediabrainz.api.model.Event;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class EventCollectionAdapter extends BaseRecyclerViewAdapter<EventCollectionAdapter.EventCollectionViewHolder> {
 

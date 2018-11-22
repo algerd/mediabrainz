@@ -23,6 +23,7 @@ import app.mediabrainz.api.model.ReleaseGroup;
 
 import static app.mediabrainz.MediaBrainzApp.api;
 
+
 public class ReleaseGroupSearchAdapter extends BaseRecyclerViewAdapter<ReleaseGroupSearchAdapter.ReleaseGroupSearchViewHolder> {
 
     private List<ReleaseGroup> releaseGroups;

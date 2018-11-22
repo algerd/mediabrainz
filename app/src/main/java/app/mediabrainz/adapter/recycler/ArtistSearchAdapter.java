@@ -24,9 +24,6 @@ import java.util.List;
 import static android.text.TextUtils.TruncateAt.END;
 import static app.mediabrainz.MediaBrainzApp.api;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class ArtistSearchAdapter extends BaseRecyclerViewAdapter<ArtistSearchAdapter.ArtistSearchViewHolder> {
 

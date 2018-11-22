@@ -20,9 +20,6 @@ import app.mediabrainz.util.ShowUtil;
 import static app.mediabrainz.MediaBrainzApp.api;
 import static app.mediabrainz.MediaBrainzApp.oauth;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class ArtistRatingsAdapter extends BasePagedListAdapter<Rating> {
 

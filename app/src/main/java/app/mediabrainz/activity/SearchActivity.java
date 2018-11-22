@@ -40,7 +40,6 @@ public class SearchActivity extends BaseActivity implements
         GetReleasesCommunicator,
         LoadingCommunicator {
 
-    // artistSearch:
     // !!! for SearchView.OnQueryTextListener (BaseActivity)
     public static final String QUERY = "query";
 

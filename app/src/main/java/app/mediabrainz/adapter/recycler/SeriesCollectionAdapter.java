@@ -13,9 +13,6 @@ import java.util.List;
 import app.mediabrainz.R;
 import app.mediabrainz.api.model.Series;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class SeriesCollectionAdapter extends BaseRecyclerViewAdapter<SeriesCollectionAdapter.SeriesCollectionViewHolder> {
 

@@ -19,6 +19,7 @@ import app.mediabrainz.util.ShowUtil;
 import static app.mediabrainz.MediaBrainzApp.api;
 import static app.mediabrainz.MediaBrainzApp.oauth;
 
+
 public class ItemViewHolder extends BaseItemViewHolder {
 
     public interface OnItemClickListener {

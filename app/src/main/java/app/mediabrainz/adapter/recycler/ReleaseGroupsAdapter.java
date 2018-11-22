@@ -33,9 +33,6 @@ import static app.mediabrainz.MediaBrainzApp.api;
 import static app.mediabrainz.MediaBrainzApp.oauth;
 import static app.mediabrainz.api.coverart.CoverArtImage.Thumbnails.SMALL_SIZE;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class ReleaseGroupsAdapter extends BasePagedListAdapter<ReleaseGroup> {
 

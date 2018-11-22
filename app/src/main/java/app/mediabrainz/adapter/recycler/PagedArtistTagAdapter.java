@@ -13,9 +13,6 @@ import java.util.Objects;
 import app.mediabrainz.R;
 import app.mediabrainz.api.site.TagEntity;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class PagedArtistTagAdapter extends BasePagedListAdapter<TagEntity> {
 

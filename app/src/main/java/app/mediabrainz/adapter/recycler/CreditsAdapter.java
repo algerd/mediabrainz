@@ -12,9 +12,6 @@ import app.mediabrainz.api.model.relations.Relation;
 
 import java.util.List;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class CreditsAdapter extends BaseRecyclerViewAdapter<CreditsAdapter.CreditsViewHolder> {
 

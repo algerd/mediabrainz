@@ -22,9 +22,6 @@ import java.util.List;
 
 import static app.mediabrainz.MediaBrainzApp.api;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class ReleaseCollectionAdapter extends BaseRecyclerViewAdapter<ReleaseCollectionAdapter.ReleaseCollectionViewHolder> {
 

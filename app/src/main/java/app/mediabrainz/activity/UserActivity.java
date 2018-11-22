@@ -46,6 +46,7 @@ import static app.mediabrainz.adapter.pager.UserNavigationPagerAdapter.TAB_RATIN
 import static app.mediabrainz.adapter.pager.UserNavigationPagerAdapter.TAB_RECOMMENDS_POS;
 import static app.mediabrainz.adapter.pager.UserNavigationPagerAdapter.TAB_TAGS_POS;
 
+
 public class UserActivity extends BaseBottomNavActivity implements
         GetUsernameCommunicator,
         OnArtistCommunicator,

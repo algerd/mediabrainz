@@ -12,9 +12,6 @@ import app.mediabrainz.api.model.Url;
 
 import java.util.List;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class LinkAdapter extends BaseRecyclerViewAdapter<LinkAdapter.LinkViewHolder> {
 

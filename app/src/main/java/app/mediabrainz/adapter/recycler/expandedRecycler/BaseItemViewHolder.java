@@ -5,6 +5,7 @@ import android.view.View;
 
 import app.mediabrainz.R;
 
+
 public abstract class BaseItemViewHolder extends RecyclerView.ViewHolder {
 
     protected View container;

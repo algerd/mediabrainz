@@ -22,6 +22,7 @@ import app.mediabrainz.util.StringFormat;
 
 import static app.mediabrainz.MediaBrainzApp.api;
 
+
 public class UserProfileFragment extends LazyFragment {
 
     private String username;

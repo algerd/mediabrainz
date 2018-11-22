@@ -28,9 +28,6 @@ import java.util.List;
 
 import static app.mediabrainz.MediaBrainzApp.api;
 
-/**
- * Created by Alex on 19.02.2018.
- */
 
 public class ReleaseAdapter extends BaseRecyclerViewAdapter<ReleaseAdapter.ReleaseViewHolder> {
 

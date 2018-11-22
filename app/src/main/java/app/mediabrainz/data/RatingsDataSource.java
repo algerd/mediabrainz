@@ -14,6 +14,7 @@ import app.mediabrainz.api.site.RatingServiceInterface;
 
 import static app.mediabrainz.MediaBrainzApp.api;
 
+
 public class RatingsDataSource extends PageKeyedDataSource<Integer, Rating> {
 
     private CompositeDisposable compositeDisposable;

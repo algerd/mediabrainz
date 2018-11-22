@@ -11,9 +11,7 @@ import android.widget.FilterQueryProvider;
 
 import app.mediabrainz.R;
 
-/**
- * This is a helper class to provide a Cursor to the suggestions database.
- */
+
 public class SuggestionHelper {
 
     public static final String COLUMN = "display1";

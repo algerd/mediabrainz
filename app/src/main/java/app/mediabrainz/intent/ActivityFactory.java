@@ -19,6 +19,7 @@ import app.mediabrainz.adapter.pager.TagPagerAdapter;
 
 import static app.mediabrainz.activity.UserActivity.DEFAULT_USER_NAV_VIEW;
 
+
 public class ActivityFactory {
 
     public static void startSearchActivity(Context context, String searchQuery, SearchType searchType) {

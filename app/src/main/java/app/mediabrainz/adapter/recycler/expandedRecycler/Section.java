@@ -3,6 +3,7 @@ package app.mediabrainz.adapter.recycler.expandedRecycler;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Section<T> {
 
     private BaseHeader header;

@@ -10,6 +10,7 @@ import app.mediabrainz.api.core.ApiUtils;
 import app.mediabrainz.api.model.Artist;
 import app.mediabrainz.api.model.relations.Relation;
 
+
 public class ItemViewHolder extends BaseItemViewHolder {
 
     public interface OnItemClickListener {

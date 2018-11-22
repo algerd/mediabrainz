@@ -9,6 +9,7 @@ import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.expandedRecycler.BaseHeader;
 import app.mediabrainz.adapter.recycler.expandedRecycler.BaseHeaderViewHolder;
 
+
 public class HeaderViewHolder extends BaseHeaderViewHolder {
 
     private ImageView expandView;

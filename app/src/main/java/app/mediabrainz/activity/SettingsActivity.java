@@ -5,6 +5,7 @@ import android.os.Bundle;
 import app.mediabrainz.R;
 import app.mediabrainz.fragment.SettingsFragment;
 
+
 public class SettingsActivity extends BaseActivity {
 
     @Override

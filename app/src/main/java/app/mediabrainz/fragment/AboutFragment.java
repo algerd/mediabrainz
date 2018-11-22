@@ -11,6 +11,7 @@ import app.mediabrainz.MediaBrainzApp;
 import app.mediabrainz.R;
 import app.mediabrainz.ui.view.HtmlAssetTextView;
 
+
 public class AboutFragment extends Fragment {
 
     private TextView versionLabel;

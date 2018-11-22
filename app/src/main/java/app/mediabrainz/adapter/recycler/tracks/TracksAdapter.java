@@ -11,9 +11,6 @@ import app.mediabrainz.adapter.recycler.expandedRecycler.BaseExpandedRecyclerAda
 import app.mediabrainz.adapter.recycler.expandedRecycler.Section;
 import app.mediabrainz.api.model.Media;
 
-/**
- * Created by Alex on 22.03.2018.
- */
 
 public class TracksAdapter extends BaseExpandedRecyclerAdapter<Media.Track> {
 

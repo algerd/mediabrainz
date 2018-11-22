@@ -12,9 +12,6 @@ import app.mediabrainz.api.model.Collection;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Created by Alex on 22.03.2018.
- */
 
 public class DialogCollectionsAdapter extends BaseRecyclerViewAdapter<DialogCollectionsAdapter.DialogCollectionsViewHolder> {
 

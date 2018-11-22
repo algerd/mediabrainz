@@ -7,6 +7,7 @@ import android.util.AttributeSet;
 
 import app.mediabrainz.util.MbUtils;
 
+
 public class HtmlAssetTextView extends AppCompatTextView {
     
     private Context context;

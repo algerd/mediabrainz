@@ -12,9 +12,6 @@ import app.mediabrainz.api.model.Collection;
 
 import java.util.List;
 
-/**
- * Created by Alex on 19.02.2018.
- */
 
 public class CollectionsAdapter extends BaseRecyclerViewAdapter<CollectionsAdapter.CollectionsViewHolder> {
 

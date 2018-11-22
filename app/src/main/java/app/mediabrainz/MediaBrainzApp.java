@@ -5,13 +5,10 @@ import android.app.Application;
 import android.content.pm.PackageManager;
 
 import app.mediabrainz.account.OAuth;
-import app.mediabrainz.apihandler.Api;
 import app.mediabrainz.account.Preferences;
 import app.mediabrainz.api.Config;
+import app.mediabrainz.apihandler.Api;
 
-/**
- * Created by Alex on 18.12.2017.
- */
 
 public class MediaBrainzApp extends Application {
 

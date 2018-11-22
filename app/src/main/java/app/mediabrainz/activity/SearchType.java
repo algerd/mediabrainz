@@ -2,6 +2,7 @@ package app.mediabrainz.activity;
 
 import app.mediabrainz.R;
 
+
 public enum SearchType {
 
     USER(0, R.string.searchtype_user),

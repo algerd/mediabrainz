@@ -15,6 +15,7 @@ import app.mediabrainz.api.coverart.CoverArtImage;
 
 import java.util.List;
 
+
 public class CoverArtAdapter extends BaseRecyclerViewAdapter<CoverArtAdapter.CoverArtViewHolder> {
 
     private List<CoverArtImage> coverArts;

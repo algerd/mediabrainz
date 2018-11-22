@@ -5,7 +5,6 @@ import android.content.Context;
 import android.content.res.Resources;
 
 import java.text.NumberFormat;
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
@@ -13,34 +12,11 @@ import java.util.Map;
 import java.util.Set;
 
 import app.mediabrainz.R;
-import app.mediabrainz.api.model.Artist;
 import app.mediabrainz.api.model.Media;
+
 
 public class StringFormat {
 
-    public static String lineBreaksToHtml(String input) {
-        return input.replace("\n", "<br/>");
-    }
-
-    public static String stripFromEnd(String toStrip, String input) {
-        return input.replaceFirst(toStrip + ".*", "");
-    }
-
-    public static String stripLinksAndRefs(String input) {
-        // Removes link tags and references like [1].
-        return input.replaceAll("\\<a.*?>|</a>|\\[.*?\\]", "");
-    }
-
-    public static String stripImageTags(String input) {
-        return input.replaceAll("\\<img.*?/>", "");
-    }
-
-    public static String stripTablesAndDivs(String input) {
-        // Removes everything between pairs of div and table tags.
-        return input.replaceAll("(?s:\\<div.*?</div>|\\<table.*?</table>)", "");
-    }
-
-    //TODO: Перенести отсюда
     public static String buildReleaseFormatsString(Context c, List<Media> medias) {
 
         Map<String, Integer> formatCounts = getFormatCounts(medias);
@@ -126,16 +102,6 @@ public class StringFormat {
         return sb.substring(0, sb.length() - 2);
     }
 
-    private static Map<String, Integer> getFormatCounts(Collection<String> formats) {
-
-        Map<String, Integer> formatCounts = new HashMap<>();
-        for (String format : formats) {
-            Integer count = formatCounts.get(format);
-            formatCounts.put(format, (count == null) ? 1 : count + 1);
-        }
-        return formatCounts;
-    }
-
     private static Map<String, Integer> getFormatCounts(List<Media> medias) {
         Map<String, Integer> formatCounts = new HashMap<>();
         for (Media media : medias) {
@@ -143,14 +109,6 @@ public class StringFormat {
             formatCounts.put(media.getFormat(), (count == null) ? 1 : count + 1);
         }
         return formatCounts;
-    }
-
-    public static String commaSeparateArtistCredits(List<Artist.ArtistCredit> artists) {
-        StringBuilder sb = new StringBuilder();
-        for (Artist.ArtistCredit artist : artists) {
-            sb.append(artist.getName() + ", ");
-        }
-        return sb.substring(0, sb.length() - 2);
     }
 
     static public String decimalFormat(long value) {

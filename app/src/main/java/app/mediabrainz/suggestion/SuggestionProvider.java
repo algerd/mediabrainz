@@ -2,6 +2,7 @@ package app.mediabrainz.suggestion;
 
 import android.content.SearchRecentSuggestionsProvider;
 
+
 public class SuggestionProvider extends SearchRecentSuggestionsProvider {
 
     public final static String AUTHORITY = "app.mediabrainz.SearchSuggestionProvider";

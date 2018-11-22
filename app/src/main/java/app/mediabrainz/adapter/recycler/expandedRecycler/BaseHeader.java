@@ -1,5 +1,6 @@
 package app.mediabrainz.adapter.recycler.expandedRecycler;
 
+
 public abstract class BaseHeader {
 
     private boolean visible = true;

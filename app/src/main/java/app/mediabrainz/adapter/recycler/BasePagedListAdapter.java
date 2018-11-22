@@ -6,6 +6,7 @@ import android.support.v7.widget.RecyclerView;
 
 import app.mediabrainz.data.NetworkState;
 
+
 public abstract class BasePagedListAdapter<T> extends PagedListAdapter<T, RecyclerView.ViewHolder> {
 
     protected NetworkState networkState;
