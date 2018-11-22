@@ -11,7 +11,7 @@ import android.widget.LinearLayout;
 
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.ReleaseAdapter;
 import app.mediabrainz.api.model.Release;
 import app.mediabrainz.communicator.GetReleasesCommunicator;

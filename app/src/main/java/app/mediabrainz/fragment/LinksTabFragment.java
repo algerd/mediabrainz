@@ -15,7 +15,7 @@ import android.view.ViewGroup;
 import java.util.Collections;
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.LinkAdapter;
 import app.mediabrainz.api.model.Url;
 import app.mediabrainz.communicator.GetUrlsCommunicator;

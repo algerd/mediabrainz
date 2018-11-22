@@ -20,7 +20,7 @@ import android.view.MenuItem;
 import android.widget.Toast;
 
 import app.mediabrainz.MediaBrainzApp;
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.apihandler.Api;
 import app.mediabrainz.intent.ActivityFactory;
 import app.mediabrainz.intent.zxing.IntentIntegrator;

@@ -20,7 +20,7 @@ import com.squareup.picasso.Picasso;
 
 import java.util.Objects;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.apihandler.StringMapper;
 import app.mediabrainz.api.coverart.CoverArtImage;
 import app.mediabrainz.api.model.Rating;

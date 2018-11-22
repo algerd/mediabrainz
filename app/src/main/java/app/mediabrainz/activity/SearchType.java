@@ -1,6 +1,6 @@
 package app.mediabrainz.activity;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 
 public enum SearchType {
 

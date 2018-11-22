@@ -12,7 +12,7 @@ import android.view.View;
 import android.webkit.WebView;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.pager.BaseFragmentPagerAdapter;
 import app.mediabrainz.adapter.pager.ReleaseNavigationPagerAdapter;
 import app.mediabrainz.adapter.pager.TagPagerAdapter;

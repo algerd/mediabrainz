@@ -17,7 +17,7 @@ import android.widget.CheckBox;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.pager.ReleaseGroupsPagerAdapter;
 import app.mediabrainz.adapter.recycler.ReleaseGroupsAdapter;
 import app.mediabrainz.adapter.recycler.RetryCallback;

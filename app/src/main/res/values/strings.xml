@@ -255,10 +255,13 @@
     <!-- Preferences -->
     <string name="preferences_title">Settings</string>
     <string name="settings_search">Search</string>
-    <string name="settings_suggestions">Suggestions</string>
-    <string name="settings_suggestions_summary">Store and display search suggestions</string>
+    <string name="settings_title_suggestions">Suggestions</string>
+    <string name="settings_summary_suggestions">Store and display search suggestions</string>
     <string name="settings_clear_suggestions">Clear search history</string>
     <string name="settings_clear_recommends">Clear recommends</string>
+    <string name="settings_title_images">Images</string>
+    <string name="settings_load_images">Load images</string>
+    <string name="settings_title_miscellanea">Miscellanea</string>
 
     <!-- ImageActivity -->
     <string name="error_image_loading">Error loading of image</string>

@@ -11,7 +11,7 @@ import android.view.inputmethod.EditorInfo;
 import android.widget.Button;
 import android.widget.EditText;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.oauth.OAuthException;
 import app.mediabrainz.util.ShowUtil;
 

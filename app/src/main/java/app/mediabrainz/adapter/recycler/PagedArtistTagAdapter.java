@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import java.util.Objects;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.site.TagEntity;
 
 /**

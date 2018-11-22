@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.ArtistTagAdapter;
 import app.mediabrainz.adapter.recycler.EntityTagAdapter;
 import app.mediabrainz.api.site.TagEntity;

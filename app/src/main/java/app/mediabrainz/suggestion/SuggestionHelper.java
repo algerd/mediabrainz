@@ -9,7 +9,7 @@ import android.support.v4.widget.SimpleCursorAdapter;
 import android.widget.ArrayAdapter;
 import android.widget.FilterQueryProvider;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 
 /**
  * This is a helper class to provide a Cursor to the suggestions database.

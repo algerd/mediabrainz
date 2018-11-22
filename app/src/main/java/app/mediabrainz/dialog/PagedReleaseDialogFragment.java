@@ -14,7 +14,7 @@ import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.PagedReleaseAdapter;
 import app.mediabrainz.adapter.recycler.RetryCallback;
 import app.mediabrainz.api.browse.ReleaseBrowseService;

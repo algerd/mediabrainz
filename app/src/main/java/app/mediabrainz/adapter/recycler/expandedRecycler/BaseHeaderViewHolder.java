@@ -3,7 +3,7 @@ package app.mediabrainz.adapter.recycler.expandedRecycler;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 
 
 public abstract class BaseHeaderViewHolder extends RecyclerView.ViewHolder {

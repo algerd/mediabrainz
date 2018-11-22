@@ -12,7 +12,7 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.AutoCompleteTextView;
 
 import app.mediabrainz.MediaBrainzApp;
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.suggestion.SuggestionHelper;
 
 public class SearchFragment extends Fragment {

@@ -6,7 +6,7 @@ import android.support.v4.app.FragmentManager;
 
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.fragment.CollectionsTabFragment;
 
 import static app.mediabrainz.adapter.pager.CollectionsPagerAdapter.CollectionTab.*;

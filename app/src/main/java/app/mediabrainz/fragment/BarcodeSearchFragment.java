@@ -21,7 +21,7 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.ReleaseAdapter;
 import app.mediabrainz.api.model.Release;
 import app.mediabrainz.intent.ActivityFactory;

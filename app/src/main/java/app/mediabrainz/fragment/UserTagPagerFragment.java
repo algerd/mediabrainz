@@ -13,7 +13,7 @@ import android.view.ViewGroup;
 import java.util.List;
 import java.util.Map;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.pager.UserTagPagerAdapter;
 import app.mediabrainz.api.site.TagEntity;
 import app.mediabrainz.api.site.TagServiceInterface;

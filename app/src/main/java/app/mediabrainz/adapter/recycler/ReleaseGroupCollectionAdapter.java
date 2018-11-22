@@ -16,7 +16,7 @@ import android.widget.TextView;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.coverart.CoverArtImage;
 import app.mediabrainz.api.model.Rating;
 import app.mediabrainz.api.model.ReleaseGroup;

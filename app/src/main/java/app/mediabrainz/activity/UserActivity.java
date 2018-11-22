@@ -9,7 +9,7 @@ import android.support.v4.app.Fragment;
 import android.view.View;
 import android.widget.EditText;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.pager.BaseFragmentPagerAdapter;
 import app.mediabrainz.adapter.pager.CollectionsPagerAdapter;
 import app.mediabrainz.adapter.pager.UserNavigationPagerAdapter;

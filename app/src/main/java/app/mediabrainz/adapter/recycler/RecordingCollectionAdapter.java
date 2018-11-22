@@ -11,7 +11,7 @@ import android.widget.LinearLayout;
 import android.widget.RatingBar;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.model.Rating;
 import app.mediabrainz.api.model.Recording;
 import app.mediabrainz.intent.ActivityFactory;

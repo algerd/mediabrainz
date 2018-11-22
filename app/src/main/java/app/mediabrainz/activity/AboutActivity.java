@@ -2,7 +2,7 @@ package app.mediabrainz.activity;
 
 import android.os.Bundle;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 
 public class AboutActivity extends BaseActivity {
 

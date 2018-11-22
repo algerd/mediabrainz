@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.lastfm.model.Album;
 import app.mediabrainz.api.model.Artist;
 import app.mediabrainz.api.model.Rating;

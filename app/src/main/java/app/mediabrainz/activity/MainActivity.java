@@ -3,7 +3,7 @@ package app.mediabrainz.activity;
 import android.os.Bundle;
 import android.view.View;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.fragment.SearchFragment;
 import app.mediabrainz.fragment.SelectedSearchFragment;
 import app.mediabrainz.intent.ActivityFactory;

@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import app.mediabrainz.MediaBrainzApp;
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.ui.view.HtmlAssetTextView;
 
 public class AboutFragment extends Fragment {

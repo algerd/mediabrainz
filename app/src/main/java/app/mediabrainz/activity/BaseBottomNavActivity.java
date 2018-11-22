@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.pager.BaseFragmentPagerAdapter;
 import app.mediabrainz.communicator.ShowTitleCommunicator;
 import app.mediabrainz.ui.CustomViewPager;

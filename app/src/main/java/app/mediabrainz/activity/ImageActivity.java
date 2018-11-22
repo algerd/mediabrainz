@@ -10,7 +10,7 @@ import com.github.chrisbanes.photoview.PhotoView;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 
 
 public class ImageActivity extends AppCompatActivity {

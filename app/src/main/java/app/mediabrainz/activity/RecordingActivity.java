@@ -10,7 +10,7 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.webkit.WebView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.pager.BaseFragmentPagerAdapter;
 import app.mediabrainz.adapter.pager.RecordingNavigationPagerAdapter;
 import app.mediabrainz.adapter.pager.TagPagerAdapter;

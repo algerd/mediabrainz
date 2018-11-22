@@ -16,7 +16,8 @@ import android.widget.TextView;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.MediaBrainzApp;
+import app.mediabrainz.R;
 import app.mediabrainz.api.lastfm.model.Image;
 import app.mediabrainz.api.model.Artist;
 import app.mediabrainz.api.model.Rating;
@@ -41,7 +42,7 @@ public class ArtistCollectionAdapter extends BaseRecyclerViewAdapter<ArtistColle
 
         static final int VIEW_HOLDER_LAYOUT = R.layout.card_artist_collection;
 
-        private ImageView image;
+        private ImageView artistImage;
         private ProgressBar progressLoading;
         private TextView artistName;
         private RatingBar userRating;
@@ -57,7 +58,7 @@ public class ArtistCollectionAdapter extends BaseRecyclerViewAdapter<ArtistColle
 
         private ArtistCollectionViewHolder(View v) {
             super(v);
-            image = v.findViewById(R.id.artist_image);
+            artistImage = v.findViewById(R.id.artist_image);
             progressLoading = v.findViewById(R.id.image_loading);
             artistName = v.findViewById(R.id.artist_name);
             userRating = v.findViewById(R.id.user_rating);
@@ -72,8 +73,11 @@ public class ArtistCollectionAdapter extends BaseRecyclerViewAdapter<ArtistColle
             artistName.setText(artist.getName());
             setUserRating(artist);
             setAllRating(artist);
-            loadArtistImageFromLastfm(artist.getName());
-
+            if (MediaBrainzApp.getPreferences().isLoadImagesEnabled()) {
+                loadArtistImageFromLastfm(artist.getName());
+            } else {
+                artistImage.setVisibility(View.VISIBLE);
+            }
             ratingContainer.setOnClickListener(v -> showRatingBar(artist));
         }
 
@@ -159,7 +163,7 @@ public class ArtistCollectionAdapter extends BaseRecyclerViewAdapter<ArtistColle
                             if (images != null && !images.isEmpty()) {
                                 for (Image img : images) {
                                     if (img.getSize().equals(Image.SizeType.MEDIUM.toString()) && !TextUtils.isEmpty(img.getText())) {
-                                        Picasso.get().load(img.getText()).fit().into(image, new Callback() {
+                                        Picasso.get().load(img.getText()).fit().into(artistImage, new Callback() {
                                             @Override
                                             public void onSuccess() {
                                                 showImageProgressLoading(false);
@@ -185,11 +189,11 @@ public class ArtistCollectionAdapter extends BaseRecyclerViewAdapter<ArtistColle
 
         private void showImageProgressLoading(boolean show) {
             if (show) {
-                image.setVisibility(View.INVISIBLE);
+                artistImage.setVisibility(View.INVISIBLE);
                 progressLoading.setVisibility(View.VISIBLE);
             } else {
                 progressLoading.setVisibility(View.GONE);
-                image.setVisibility(View.VISIBLE);
+                artistImage.setVisibility(View.VISIBLE);
             }
         }
 

@@ -13,7 +13,7 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.apihandler.StringMapper;
 import app.mediabrainz.api.core.ApiUtils;
 import app.mediabrainz.api.coverart.CoverArtImage;

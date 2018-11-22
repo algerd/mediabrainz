@@ -17,7 +17,7 @@ import com.squareup.picasso.Picasso;
 import java.util.List;
 import java.util.Objects;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.coverart.CoverArtImage;
 import app.mediabrainz.api.model.Label;
 import app.mediabrainz.api.model.Media;

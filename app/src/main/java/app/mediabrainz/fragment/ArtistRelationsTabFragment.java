@@ -13,7 +13,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.artistRelations.ArtistRelationsAdapter;
 import app.mediabrainz.adapter.recycler.artistRelations.Header;
 import app.mediabrainz.adapter.recycler.expandedRecycler.Section;

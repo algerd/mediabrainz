@@ -13,7 +13,7 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.CoverArtAdapter;
 import app.mediabrainz.api.coverart.CoverArtImage;
 import app.mediabrainz.api.coverart.ReleaseCoverArt;

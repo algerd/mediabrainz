@@ -16,7 +16,7 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.communicator.GetUsernameCommunicator;
 import app.mediabrainz.util.StringFormat;
 

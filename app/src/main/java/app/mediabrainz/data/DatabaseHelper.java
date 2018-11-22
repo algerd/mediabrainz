@@ -11,6 +11,7 @@ import app.mediabrainz.api.model.Tag;
 import java.util.Collections;
 import java.util.List;
 
+
 public class DatabaseHelper extends SQLiteOpenHelper {
 
     private static final String DB_NAME = "mediabrainzdb";

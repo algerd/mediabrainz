@@ -13,7 +13,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.core.ApiUtils;
 import app.mediabrainz.api.model.Artist;
 import app.mediabrainz.api.model.Recording;
