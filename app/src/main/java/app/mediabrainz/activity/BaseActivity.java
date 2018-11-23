@@ -63,6 +63,22 @@ public abstract class BaseActivity extends AppCompatActivity implements
     }
 
     @Override
+    protected void onStart() {
+        super.onStart();
+        if (oauth.hasAccount()) {
+            if (navigationView.getMenu().findItem(R.id.nav_user_logout) == null) {
+                navigationView.getMenu().clear();
+                navigationView.inflateMenu(R.menu.drawer_nav);
+            }
+        } else {
+            if (navigationView.getMenu().findItem(R.id.nav_user_login) == null) {
+                navigationView.getMenu().clear();
+                navigationView.inflateMenu(R.menu.guest_drawer_nav);
+            }
+        }
+    }
+
+    @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         int id = item.getItemId();
         switch (id) {
@@ -75,6 +91,9 @@ public abstract class BaseActivity extends AppCompatActivity implements
                 break;
             case R.id.nav_settings:
                 ActivityFactory.startSettingsActivity(this);
+                break;
+            case R.id.nav_user_login:
+                ActivityFactory.startLoginActivity(this);
                 break;
 
             // User nav:

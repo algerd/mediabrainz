@@ -16,168 +16,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc6627b9-a4fe-4613-bbc4-e6128954b562" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/AreaBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/AreaBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/ArtistBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/ArtistBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/BaseBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/BaseBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/BrowseServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/BrowseServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/CollectionBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/CollectionBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/EntityType.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/EntityType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/EventBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/EventBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/LabelBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/LabelBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/PlaceBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/PlaceBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/RecordingBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/RecordingBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/ReleaseBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/ReleaseBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/ReleaseGroupBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/ReleaseGroupBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/SeriesBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/SeriesBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/UrlBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/UrlBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/WorkBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/browse/WorkBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/core/ApiUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/core/ApiUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/core/BaseWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/core/BaseWebService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/core/RetrofitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/core/RetrofitService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/core/WebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/core/WebService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/core/WebServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/core/WebServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/coverart/CoverArtImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/coverart/CoverArtImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/coverart/CoverArtRetrofitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/coverart/CoverArtRetrofitService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/coverart/CoverArtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/coverart/CoverArtService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/coverart/CoverArtServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/coverart/CoverArtServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/coverart/ReleaseCoverArt.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/coverart/ReleaseCoverArt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/LastfmConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/LastfmConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/LastfmRetrofitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/LastfmRetrofitService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/LastfmService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/LastfmService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/LastfmServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/LastfmServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/model/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/model/Album.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/model/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/model/Artist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/model/Bio.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/model/Bio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/model/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/model/Image.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/model/LastfmResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/model/LastfmResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/model/Tag.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lastfm/model/Tag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/AreaLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/AreaLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/ArtistLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/ArtistLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/BaseLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/BaseLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/CollectionLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/CollectionLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/DiscidLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/DiscidLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/EventLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/EventLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/ISRCLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/ISRCLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/ISWCLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/ISWCLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/IncType.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/IncType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/InstrumentLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/InstrumentLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/LabelLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/LabelLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/LookupServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/LookupServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/PlaceLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/PlaceLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/RecordingLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/RecordingLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/ReleaseGroupLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/ReleaseGroupLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/ReleaseLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/ReleaseLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/SeriesLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/SeriesLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/UrlLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/UrlLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/WorkLookupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lookup/WorkLookupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lyrics/LyricsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lyrics/LyricsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lyrics/LyricsRetrofitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lyrics/LyricsRetrofitService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lyrics/LyricsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lyrics/LyricsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lyrics/LyricsServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lyrics/LyricsServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lyrics/model/LyricsApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/lyrics/model/LyricsApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Alias.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Alias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Annotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Annotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Artist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/BaseLookupEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/BaseLookupEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/BaseSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/BaseSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/CDStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/CDStub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Collection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/CoverArt.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/CoverArt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Disc.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Disc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/ISRC.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/ISRC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/ISWC.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/ISWC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Label.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Label.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/LifeSpan.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/LifeSpan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Media.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Place.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Place.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Rating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Recording.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Recording.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/RelationExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/RelationExtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Release.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Release.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/ReleaseEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/ReleaseEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/ReleaseGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/ReleaseGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Series.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Tag.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Tag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Url.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Url.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Work.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/Work.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/relations/Relation.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/relations/Relation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/ArtistXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/ArtistXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/BaseTagRatingEntityXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/BaseTagRatingEntityXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/IsrcXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/IsrcXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/MessageXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/MessageXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/Metadata.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/Metadata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/RecordingXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/RecordingXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/ReleaseGroupXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/ReleaseGroupXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/ReleaseXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/ReleaseXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/UserTagXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/model/xml/UserTagXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OAuthCredential.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OAuthCredential.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OAuthException.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OAuthException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OAuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OAuthService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OAuthServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OAuthServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OauthRetrofitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OauthRetrofitService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/CollectionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/CollectionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/CollectionServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/CollectionServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/MetadataBrowseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/MetadataBrowseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/MetadataBrowseServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/MetadataBrowseServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/PostWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/PostWebService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/PostWebServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/PostWebServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/genres/GenresService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/genres/GenresService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/genres/GenresServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/genres/GenresServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/AnnotationSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/AnnotationSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/AreaSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/AreaSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/ArtistSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/ArtistSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/BaseSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/BaseSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/CDStubSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/CDStubSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/EventSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/EventSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/InstrumentSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/InstrumentSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/LabelSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/LabelSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/LuceneBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/LuceneBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/PlaceSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/PlaceSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/RecordingSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/RecordingSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/ReleaseGroupSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/ReleaseGroupSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/ReleaseSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/ReleaseSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/SearchServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/SearchServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/SeriesSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/SeriesSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/TagSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/TagSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/WorkSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/WorkSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/LogInException.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/LogInException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/Rating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/RatingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/RatingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/RatingServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/RatingServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/SiteRetrofitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/SiteRetrofitService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/SiteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/SiteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/SiteServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/SiteServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/TagEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/TagEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/TagService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/TagService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/TagServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/TagServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/UserProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/UserProfile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/UserProfileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/UserProfileService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/UserProfileServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/site/UserProfileServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/wiki/WikiConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/wiki/WikiConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/wiki/WikiRetrofitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/wiki/WikiRetrofitService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/wiki/WikiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/wiki/WikiService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/wiki/WikiServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/wiki/WikiServiceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/wiki/model/Wikipedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/wiki/model/Wikipedia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_about.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/BaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_nav.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_nav.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -210,10 +59,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="drawer_nav.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/drawer_nav.xml">
+      <file leaf-file-name="BaseActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/BaseActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state />
+            <state relative-caret-position="180">
+              <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+              <folding>
+                <element signature="e#2001#2025#0" expanded="true" />
+                <element signature="e#2043#2068#0" expanded="true" />
+                <element signature="e#3067#3095#0" expanded="true" />
+                <element signature="e#3097#3127#0" expanded="true" />
+                <element signature="e#3153#3179#0" expanded="true" />
+                <element signature="e#3181#3207#0" expanded="true" />
+                <element signature="e#4852#4891#0" expanded="true" />
+                <element signature="e#4993#5028#0" expanded="true" />
+                <element signature="e#7890#7918#0" expanded="true" />
+                <element signature="e#7920#7950#0" expanded="true" />
+                <element signature="e#7976#8002#0" expanded="true" />
+                <element signature="e#8004#8030#0" expanded="true" />
+                <element signature="e#7880#7881#0" expanded="true" />
+                <element signature="e#7908#7909#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/view/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="384" column="14" selection-start-line="384" selection-start-column="14" selection-end-line="384" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavigationView.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/c9562f2856f6d2a9518f86e5418ccff7/jars/classes.jar!/android/support/design/widget/NavigationView.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="190" column="21" selection-start-line="190" selection-start-column="21" selection-end-line="190" selection-end-column="21" />
+              <folding>
+                <element signature="e#8079#8080#0" expanded="true" />
+                <element signature="e#8111#8112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-692">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_bottom_nav.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_bottom_nav.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2420">
+              <caret line="110" column="33" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="33" />
+            </state>
           </provider>
           <provider editor-type-id="android-designer2">
             <state />
@@ -2846,9 +2753,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OAuthCredential.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OAuthException.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OauthRetrofitService.java" />
         <option value="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OAuthService.java" />
         <option value="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/oauth/OAuthServiceInterface.java" />
         <option value="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/genres/GenresService.java" />
@@ -2897,6 +2801,9 @@
         <option value="$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/Config.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_about.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/guest_drawer_nav.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_nav.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/BaseActivity.java" />
       </list>
     </option>
   </component>
@@ -3028,6 +2935,24 @@
             <path>
               <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="mediabrainz" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="mediabrainz" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mediabrainz" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
             </path>
             <path>
@@ -3064,6 +2989,7 @@
       <recent name="org.musicbrainz.android.adapter.pager" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\Android\mediabrainz\app\src\main\res\menu" />
       <recent name="E:\Projects\Android\musicbrainz-android\app\src\main\res\layout" />
       <recent name="E:\Projects\Android\musicbrainz-android\app\src\main\res\drawable" />
       <recent name="E:\Projects\Android\musicbrainz-android\app\src\main\res\values" />
@@ -3277,62 +3203,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/CollectionService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/CollectionServiceInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/MetadataBrowseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/MetadataBrowseServiceInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/PostWebService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/other/PostWebServiceInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/AnnotationSearchService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/AreaSearchService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/src/main/java/app/mediabrainz/api/search/ArtistSearchService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
@@ -3634,12 +3504,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/guest_drawer_nav.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#742#766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/drawer_nav.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state />
       </provider>
       <provider editor-type-id="android-designer2">
         <state />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/242ea747339aba4465282b70d7113e40/jars/classes.jar!/android/support/v7/app/AppCompatActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_nav.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_bottom_nav.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2420">
+          <caret line="110" column="33" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="33" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-692">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/view/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="384" column="14" selection-start-line="384" selection-start-column="14" selection-end-line="384" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/c9562f2856f6d2a9518f86e5418ccff7/jars/classes.jar!/android/support/design/widget/NavigationView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="190" column="21" selection-start-line="190" selection-start-column="21" selection-end-line="190" selection-end-column="21" />
+          <folding>
+            <element signature="e#8079#8080#0" expanded="true" />
+            <element signature="e#8111#8112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/mediabrainz/activity/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+          <folding>
+            <element signature="e#2001#2025#0" expanded="true" />
+            <element signature="e#2043#2068#0" expanded="true" />
+            <element signature="e#3067#3095#0" expanded="true" />
+            <element signature="e#3097#3127#0" expanded="true" />
+            <element signature="e#3153#3179#0" expanded="true" />
+            <element signature="e#3181#3207#0" expanded="true" />
+            <element signature="e#4852#4891#0" expanded="true" />
+            <element signature="e#4993#5028#0" expanded="true" />
+            <element signature="e#7890#7918#0" expanded="true" />
+            <element signature="e#7920#7950#0" expanded="true" />
+            <element signature="e#7976#8002#0" expanded="true" />
+            <element signature="e#8004#8030#0" expanded="true" />
+            <element signature="e#7880#7881#0" expanded="true" />
+            <element signature="e#7908#7909#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
