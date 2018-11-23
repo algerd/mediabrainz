@@ -3,9 +3,6 @@ package app.mediabrainz.api.oauth;
 import io.reactivex.Flowable;
 import retrofit2.adapter.rxjava2.Result;
 
-/**
- * Created by Alex on 07.12.2017.
- */
 
 public interface OAuthServiceInterface {
 

@@ -13,8 +13,6 @@ import static app.mediabrainz.api.search.ReleaseSearchService.ReleaseSearchField
  * unconditional search: Release search terms with no fields search the RELEASE field only.
  *  new ReleaseSearchService().search("Stair")
  *  new ReleaseSearchService().search("Stair", 2, 10)
- *
- * Created by Alex on 20.11.2017.
  */
 
 public class ReleaseSearchService extends

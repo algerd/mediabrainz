@@ -15,6 +15,7 @@ import app.mediabrainz.api.core.WebServiceInterface;
 
 import static app.mediabrainz.api.Config.WEB_SERVICE;
 
+
 public class UserProfileService implements UserProfileServiceInterface {
 
     private static final WebServiceInterface<SiteRetrofitService> webService =

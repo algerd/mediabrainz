@@ -9,9 +9,6 @@ import app.mediabrainz.api.model.ReleaseGroup;
 import static app.mediabrainz.api.lookup.IncType.*;
 
 
-/**
- * Created by Alex on 16.11.2017.
- */
 public class ArtistLookupService extends BaseLookupService<Artist, ArtistLookupService.ArtistIncType> {
 
     public ArtistLookupService(String mbid) {

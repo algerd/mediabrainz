@@ -1,8 +1,5 @@
 package app.mediabrainz.api.lyrics;
 
-/**
- * Created by Alex on 29.01.2018.
- */
 
 public class LyricsConfig {
 

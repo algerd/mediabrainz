@@ -19,8 +19,6 @@ import app.mediabrainz.api.model.ReleaseGroup;
         //If you want to search all mediums regardless of format, add 'media-format=all'
          .addMediaFormat("all")
          .lookup();
- *
- * Created by Alex on 16.11.2017.
  */
 
 public class DiscidLookupService extends BaseLookupService<Disc, ReleaseLookupService.ReleaseIncType> {

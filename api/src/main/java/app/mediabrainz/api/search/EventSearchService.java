@@ -12,8 +12,6 @@ import static app.mediabrainz.api.search.EventSearchService.EventSearchField.TYP
  * unconditional search: Event search terms with no fields specified search the EVENT, SORT_NAME and ALIAS fields.
  *   new EventSearchService().search("rock")
  *   new EventSearchService().search("rock", 2, 10)
- *
- * Created by Alex on 20.11.2017.
  */
 
 public class EventSearchService extends

@@ -2,10 +2,7 @@ package app.mediabrainz.api.model;
 
 import com.squareup.moshi.Json;
 
-/**
- * Created by Alex on 27.11.2017.
- */
-// TODO: ???
+
 public class CoverArt {
 
     @Json(name = "back")

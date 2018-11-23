@@ -11,8 +11,6 @@ import static app.mediabrainz.api.search.PlaceSearchService.PlaceSearchField.TYP
  * unconditional search: Place search terms with no fields specified search the PLACE, ALIAS, ADDRESS and AREA fields.
  *  new PlaceSearchService().search("Street")
  *  new PlaceSearchService().search("Street", 2, 10)
- *
- * Created by Alex on 20.11.2017.
  */
 
 public class PlaceSearchService extends

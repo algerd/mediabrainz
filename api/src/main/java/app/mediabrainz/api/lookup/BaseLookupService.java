@@ -18,9 +18,6 @@ import static app.mediabrainz.api.lookup.LookupServiceInterface.LookupParamType.
 import static app.mediabrainz.api.lookup.LookupServiceInterface.LookupParamType.FORMAT;
 import static app.mediabrainz.api.lookup.LookupServiceInterface.LookupParamType.INC;
 
-/**
- * Created by Alex on 16.11.2017.
- */
 
 public abstract class BaseLookupService <R extends BaseLookupEntity, P extends Enum<P> & LookupServiceInterface.IncTypeInterface>
         extends BaseWebService

@@ -3,6 +3,7 @@ package app.mediabrainz.api.site;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class TagEntity {
 
     public static class Page {

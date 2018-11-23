@@ -14,8 +14,6 @@ import static app.mediabrainz.api.lastfm.LastfmConfig.LASTFM_FORMAT;
 import static app.mediabrainz.api.lastfm.LastfmConfig.LASTFM_WEB_SERVICE;
 
 /**
- * Created by Alex on 30.01.2018.
- * <p>
  * Сайт выдаёт ошибочную информацию по редким запросам.
  * Например по двум разным группам Riverside c mbid = 077102c2-9dbf-4515-8531-3878461c68b0
  * и mbid = f554c686-ead0-42ef-9deb-3a42f7199196 выдаётся результат одной польской группы.

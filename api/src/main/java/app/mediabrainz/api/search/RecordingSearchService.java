@@ -8,8 +8,6 @@ import app.mediabrainz.api.model.Recording.RecordingSearch;
  * unconditional search: Recording search terms with no fields search the RECORDING field only
  *   new RecordingSearchService().search("Stair")
  *   new RecordingSearchService().search("Stair", 2, 10)
- *
- * Created by Alex on 20.11.2017.
  */
 
 public class RecordingSearchService extends

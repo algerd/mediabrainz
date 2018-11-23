@@ -6,9 +6,6 @@ import app.mediabrainz.api.model.Url;
 
 import static app.mediabrainz.api.browse.EntityType.RESOURCE_ENTITY;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public class UrlBrowseService extends
         BaseBrowseService<Url, BrowseServiceInterface.EmptyIncType, UrlBrowseService.UrlBrowseEntityType> {

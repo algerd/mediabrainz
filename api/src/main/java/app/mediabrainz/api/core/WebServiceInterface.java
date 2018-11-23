@@ -1,8 +1,5 @@
 package app.mediabrainz.api.core;
 
-/**
- * Created by Alex on 06.02.2018.
- */
 
 public interface WebServiceInterface<T> {
 

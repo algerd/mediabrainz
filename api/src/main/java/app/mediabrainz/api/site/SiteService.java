@@ -27,9 +27,6 @@ import static app.mediabrainz.api.model.Collection.SERIES_TYPE;
 import static app.mediabrainz.api.model.Collection.WISHLIST_RELEASE_TYPE;
 import static app.mediabrainz.api.model.Collection.WORK_TYPE;
 
-/**
- * Created by Alex on 05.12.2017.
- */
 
 public class SiteService implements SiteServiceInterface {
 

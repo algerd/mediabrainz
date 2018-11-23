@@ -4,13 +4,11 @@ import com.squareup.moshi.Json;
 
 import java.util.List;
 
-/**
- * Created by Alex on 21.11.2017.
- */
 
 public class Work extends BaseLookupEntity {
 
     public static class WorkSearch extends BaseSearch {
+
         @Json(name = "works")
         private List<Work> works;
 

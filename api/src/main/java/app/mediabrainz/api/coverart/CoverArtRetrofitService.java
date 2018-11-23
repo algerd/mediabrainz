@@ -5,9 +5,6 @@ import retrofit2.adapter.rxjava2.Result;
 import retrofit2.http.GET;
 import retrofit2.http.Path;
 
-/**
- * Created by Alex on 20.12.2017.
- */
 
 public interface CoverArtRetrofitService {
 

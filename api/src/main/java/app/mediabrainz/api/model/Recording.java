@@ -6,7 +6,6 @@ import java.util.List;
 
 /**
  * https://musicbrainz.org/doc/Recording
- * Created by Alex on 20.11.2017.
  */
 
 public class Recording extends BaseLookupEntity {

@@ -7,9 +7,6 @@ import app.mediabrainz.api.model.xml.RecordingXML;
 import app.mediabrainz.api.model.xml.ReleaseXML;
 import app.mediabrainz.api.model.xml.UserTagXML;
 
-/**
- * Created by Alex on 30.11.2017.
- */
 
 public interface PostWebServiceInterface {
 

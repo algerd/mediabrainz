@@ -9,9 +9,6 @@ import static app.mediabrainz.api.coverart.CoverArtRetrofitService.RELEASE_GROUP
 import static app.mediabrainz.api.coverart.CoverArtRetrofitService.RELEASE_PATH;
 import static app.mediabrainz.api.coverart.CoverArtRetrofitService.COVERART_WEB_SERVICE;
 
-/**
- * Created by Alex on 20.12.2017.
- */
 
 public class CoverArtService implements CoverArtServiceInterface {
 

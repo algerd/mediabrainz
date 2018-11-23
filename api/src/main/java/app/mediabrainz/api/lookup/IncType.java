@@ -1,8 +1,5 @@
 package app.mediabrainz.api.lookup;
 
-/**
- * Created by Alex on 21.12.2017.
- */
 
 public class IncType {
 

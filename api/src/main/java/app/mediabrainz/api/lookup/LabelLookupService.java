@@ -8,9 +8,7 @@ import app.mediabrainz.api.model.ReleaseGroup;
 
 import static app.mediabrainz.api.lookup.IncType.*;
 
-/**
- * Created by Alex on 16.11.2017.
- */
+
 public class LabelLookupService extends BaseLookupService<Label, LabelLookupService.LabelIncType> {
 
     public LabelLookupService(String mbid) {

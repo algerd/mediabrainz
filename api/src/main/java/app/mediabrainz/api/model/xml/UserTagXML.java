@@ -5,9 +5,6 @@ import org.simpleframework.xml.Attribute;
 import org.simpleframework.xml.Element;
 import org.simpleframework.xml.Root;
 
-/**
- * Created by Alex on 30.11.2017.
- */
 
 @Root(name="user-tag")
 public class UserTagXML {

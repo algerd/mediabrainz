@@ -6,9 +6,7 @@ import app.mediabrainz.api.model.Instrument;
 
 import static app.mediabrainz.api.lookup.IncType.*;
 
-/**
- * Created by Alex on 16.11.2017.
- */
+
 public class InstrumentLookupService extends BaseLookupService<Instrument, InstrumentLookupService.InstrumentIncType> {
 
     public InstrumentLookupService(String mbid) {

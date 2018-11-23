@@ -7,9 +7,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Created by Alex on 01.12.2017.
- */
 
 @Root(name="recording")
 public class RecordingXML extends BaseTagRatingEntityXML {

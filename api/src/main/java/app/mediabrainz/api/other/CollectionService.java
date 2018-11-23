@@ -10,9 +10,6 @@ import app.mediabrainz.api.core.ApiUtils;
 import app.mediabrainz.api.core.BaseWebService;
 import app.mediabrainz.api.model.xml.Metadata;
 
-/**
- * Created by Alex on 04.12.2017.
- */
 
 public class CollectionService extends BaseWebService implements CollectionServiceInterface {
 

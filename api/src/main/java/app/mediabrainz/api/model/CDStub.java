@@ -6,7 +6,6 @@ import java.util.List;
 
 /**
  * https://musicbrainz.org/doc/CD_Stub
- * Created by Alex on 20.11.2017.
  */
 
 public class CDStub {

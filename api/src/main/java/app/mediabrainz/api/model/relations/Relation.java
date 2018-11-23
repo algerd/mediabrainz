@@ -18,9 +18,7 @@ import app.mediabrainz.api.model.Series;
 import app.mediabrainz.api.model.Url;
 import app.mediabrainz.api.model.Work;
 
-/**
- * Created by Alex on 21.11.2017.
- */
+
 public class Relation {
 
     /**

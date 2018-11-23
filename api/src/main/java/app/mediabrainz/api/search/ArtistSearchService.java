@@ -11,8 +11,6 @@ import static app.mediabrainz.api.search.ArtistSearchService.ArtistSearchField.T
  * unconditional search: Artist search terms with no fields specified search the ARTIST, SORTNAME and ALIAS fields.
  *    new ArtistSearchService().search("deep purple")
  *    new ArtistSearchService().search("riverside", 5, 10)
- *
- * Created by Alex on 15.11.2017.
  */
 public class ArtistSearchService extends
         BaseSearchService<ArtistSearch, ArtistSearchService.ArtistSearchField> {

@@ -15,9 +15,6 @@ import app.mediabrainz.api.core.WebServiceInterface;
 
 import static app.mediabrainz.api.Config.WEB_SERVICE;
 
-/**
- * Created by Alex on 05.12.2017.
- */
 
 public class RatingService implements RatingServiceInterface {
 

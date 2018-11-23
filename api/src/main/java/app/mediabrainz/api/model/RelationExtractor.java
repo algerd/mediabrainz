@@ -5,9 +5,6 @@ import java.util.List;
 
 import app.mediabrainz.api.model.relations.Relation;
 
-/**
- * Created by Alex on 26.01.2018.
- */
 
 public class RelationExtractor {
 

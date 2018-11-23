@@ -8,9 +8,6 @@ import static app.mediabrainz.api.browse.EntityType.ARTIST_ENTITY;
 import static app.mediabrainz.api.browse.EntityType.COLLECTION_ENTITY;
 import static app.mediabrainz.api.lookup.IncType.*;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public class WorkBrowseService extends
         BaseBrowseService<Work.WorkBrowse, WorkBrowseService.WorkIncType, WorkBrowseService.WorkBrowseEntityType> {

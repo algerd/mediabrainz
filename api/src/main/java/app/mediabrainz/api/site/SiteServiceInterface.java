@@ -4,9 +4,6 @@ import io.reactivex.Flowable;
 import okhttp3.ResponseBody;
 import retrofit2.adapter.rxjava2.Result;
 
-/**
- * Created by Alex on 26.03.2018.
- */
 
 public interface SiteServiceInterface {
 

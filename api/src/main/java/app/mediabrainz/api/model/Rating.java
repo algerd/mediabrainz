@@ -2,9 +2,6 @@ package app.mediabrainz.api.model;
 
 import com.squareup.moshi.Json;
 
-/**
- * Created by Alex on 23.11.2017.
- */
 
 public class Rating {
 

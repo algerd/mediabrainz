@@ -8,9 +8,6 @@ import retrofit2.http.GET;
 import retrofit2.http.QueryMap;
 import app.mediabrainz.api.lastfm.model.LastfmResult;
 
-/**
- * Created by Alex on 30.01.2018.
- */
 
 public interface LastfmRetrofitService {
 

@@ -11,8 +11,6 @@ import static app.mediabrainz.api.search.LabelSearchService.LabelSearchField.TYP
  * unconditional search: Label search terms with no fields specified search the LABEL, SORT_NAME and ALIAS fields.
  *  new LabelSearchService().search("Records")
  *  new LabelSearchService().search("Records", 2, 10)
- *
- * Created by Alex on 20.11.2017.
  */
 
 public class LabelSearchService extends

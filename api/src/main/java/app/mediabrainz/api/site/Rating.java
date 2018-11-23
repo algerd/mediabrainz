@@ -3,6 +3,7 @@ package app.mediabrainz.api.site;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Rating {
 
     public static class Page {

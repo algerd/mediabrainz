@@ -3,7 +3,6 @@ package app.mediabrainz.api.model;
 import com.squareup.moshi.Json;
 
 /**
- * Created by Alex on 14.11.2017.
  * The begin and end dates indicate when an artist started and finished its existence.
  * Its exact meaning depends on the type of artist:
      For a person -

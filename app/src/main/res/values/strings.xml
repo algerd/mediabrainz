@@ -34,7 +34,6 @@
     <string name="release_group_lives">Lives</string>
     <string name="release_group_compilations">Compilations</string>
     <string name="release_group_singles">Singles</string>
-    <string name="release_group_other">Other</string>
     <string name="release_group_official">Show only official release groups</string>
 
     <!-- Ratings nad Tags -->
@@ -42,9 +41,6 @@
     <string name="rate_entity">Rate: %1$s</string>
     <string name="edit_login">You must log in before you can edit!</string>
     <string name="tag_hint">Tag (genre)</string>
-
-    <!-- UserActivity -->
-    <string name="user_field_hint">Username</string>
 
     <!-- MainActivity -->
     <string name="description_search">Search</string>
@@ -75,7 +71,6 @@
 
     <!-- AboutActivity -->
     <string name="about_title">About</string>
-    <string name="app_name_official">MediaBrainz</string>
     <string name="version_text">Version</string>
 
     <!-- Release group types -->
@@ -133,7 +128,6 @@
     <string name="r_status">Status: %1$s</string>
     <string name="r_catalog">Catalog: %1$s</string>
 
-
     <string name="rg_text">Choose a release</string>
 
     <!-- ReleaseInformationFragment -->
@@ -167,7 +161,6 @@
     <!-- Collections -->
     <string name="collection_alert_title">Delete collection %1$s</string>
     <string name="expand_all">Expand all</string>
-    <string name="filter">Filter:</string>
 
     <!-- CollectionCreate -->
     <string name="collection_create_title">Add a New Collection</string>
@@ -203,15 +196,12 @@
     <string name="barcode_cancel">Cancel</string>
 
     <!-- SearchActivity -->
-    <string name="barcodesearch_title">Submit Barcode</string>
     <string name="barcode_text_hint">Barcode</string>
     <string name="barcode_release_hint">Release</string>
-    <string name="barcode_hint">Search release</string>
     <string name="barcode_instructions">Search for release to add barcode.</string>
     <string name="barcode_invalid_length">Expected 12 digits for UPC or 13 digits for EAN</string>
     <string name="barcode_invalid_chars">Should only contain digits</string>
     <string name="barcode_added">Barcode was added successfully!</string>
-    <string name="barcode_artist_hint">Search artist</string>
     <string name="barcode_artist_text_hint">Artist</string>
 
     <!-- ConfirmBarcode -->
@@ -246,14 +236,12 @@
     <string name="nav_close_drawer">Close navigation drawer</string>
 
     <!-- Menus -->
-    <string name="action_settings">Settings</string>
     <string name="action_user_profile">User Profile</string>
     <string name="action_scan_barcode">Scan Barcode</string>
     <string name="action_search_artist">Search artist</string>
     <string name="search_artist_hint">Search artist</string>
 
     <!-- Preferences -->
-    <string name="preferences_title">Settings</string>
     <string name="settings_search">Search</string>
     <string name="settings_title_suggestions">Suggestions</string>
     <string name="settings_summary_suggestions">Store and display search suggestions</string>
@@ -327,7 +315,6 @@
     <string name="title_user_recommends">Recommends</string>
     <string name="title_create_collection">Create Collection</string>
     <string name="title_edit_collection">Edit Collection</string>
-    <string name="editor_not_found">User not found</string>
 
     <!-- UserProfileFragment -->
     <string name="user_profile_user_type">User type: %1$s</string>
@@ -353,7 +340,6 @@
     <string name="artist_info_tab_links">Links</string>
 
     <!-- ReleaseActivity -->
-    <string name="release_title">Release</string>
     <string name="release_tracks_details">%1$s (%2$d)</string>
     <string name="title_release_tracks">Tracks</string>
     <string name="title_release_info">Info</string>
@@ -376,7 +362,6 @@
     <string name="title_recording_tags">Tags</string>
     <string name="recording_info_tab_info">Info</string>
     <string name="recording_info_tab_credits">Credits</string>
-
     <string name="show_lyrics_site">Show full version http://lyrics.wikia.com</string>
 
 </resources>

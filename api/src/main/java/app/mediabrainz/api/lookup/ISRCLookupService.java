@@ -6,9 +6,6 @@ import app.mediabrainz.api.model.ISRC;
 import app.mediabrainz.api.model.Release;
 import app.mediabrainz.api.model.ReleaseGroup;
 
-/**
- * Created by Alex on 16.11.2017.
- */
 
 public class ISRCLookupService extends BaseLookupService<ISRC, RecordingLookupService.RecordingIncType> {
 

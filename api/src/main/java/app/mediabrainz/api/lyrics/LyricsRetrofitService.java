@@ -10,6 +10,7 @@ import retrofit2.http.QueryMap;
 import app.mediabrainz.api.lyrics.model.LyricsResult;
 import app.mediabrainz.api.lyrics.model.LyricsApi;
 
+
 public interface LyricsRetrofitService {
 
     //http://lyrics.wikia.com/wikia.php?controller=LyricsApi&method=getSong&artist=iron maiden&song=iron maiden

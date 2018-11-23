@@ -22,9 +22,6 @@ import static app.mediabrainz.api.wiki.WikiConfig.PROPS_SITELINKS;
 import static app.mediabrainz.api.wiki.WikiConfig.WIKIDATA_WEB_SERVICE;
 import static app.mediabrainz.api.wiki.WikiConfig.WIKIPEDIA_WEB_SERVICE;
 
-/**
- * Created by Alex on 29.01.2018.
- */
 
 public class WikiService implements WikiServiceInterface {
 

@@ -7,9 +7,6 @@ import app.mediabrainz.api.model.Recording;
 import static app.mediabrainz.api.lookup.IncType.*;
 import static app.mediabrainz.api.browse.EntityType.*;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public class RecordingBrowseService extends
         BaseBrowseService<Recording.RecordingBrowse, RecordingBrowseService.RecordingIncType, RecordingBrowseService.RecordingBrowseEntityType> {

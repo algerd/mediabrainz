@@ -1,8 +1,5 @@
 package app.mediabrainz.api.site;
 
-/**
- * Created by Alex on 07.12.2017.
- */
 
 public class LogInException extends Exception {
 

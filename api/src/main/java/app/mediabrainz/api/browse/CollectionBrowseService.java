@@ -16,9 +16,6 @@ import static app.mediabrainz.api.browse.EntityType.RELEASE_GROUP_ENTITY;
 import static app.mediabrainz.api.browse.EntityType.WORK_ENTITY;
 import static app.mediabrainz.api.lookup.IncType.USER_COLLECTIONS_INC;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public class CollectionBrowseService extends
         BaseBrowseService<Collection.CollectionBrowse, CollectionBrowseService.CollectionIncType, CollectionBrowseService.CollectionBrowseEntityType> {

@@ -2,9 +2,6 @@ package app.mediabrainz.api.wiki.model;
 
 import com.squareup.moshi.Json;
 
-/**
- * Created by Alex on 29.01.2018.
- */
 
 public class Wikipedia {
 

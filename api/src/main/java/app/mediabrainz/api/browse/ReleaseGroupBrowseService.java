@@ -8,9 +8,6 @@ import app.mediabrainz.api.core.ApiUtils;
 import static app.mediabrainz.api.lookup.IncType.*;
 import static app.mediabrainz.api.browse.EntityType.*;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public class ReleaseGroupBrowseService extends
         BaseBrowseService<ReleaseGroup.ReleaseGroupBrowse, ReleaseGroupBrowseService.ReleaseGroupIncType, ReleaseGroupBrowseService.ReleaseGroupBrowseEntityType> {

@@ -8,8 +8,6 @@ import app.mediabrainz.api.model.Instrument.InstrumentSearch;
  * unconditional search:  Instrument terms with no fields specified search the name, description and other fields.
  *   new InstrumentSearchService().search("bass")
  *   new InstrumentSearchService().search("bass", 2, 10)
- *
- * Created by Alex on 20.11.2017.
  */
 
 public class InstrumentSearchService extends

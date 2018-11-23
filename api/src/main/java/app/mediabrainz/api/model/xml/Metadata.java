@@ -9,9 +9,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Created by Alex on 01.12.2017.
- */
 
 @Root(name="metadata")
 @Namespace(reference="http://musicbrainz.org/ns/mmd-2.0#")

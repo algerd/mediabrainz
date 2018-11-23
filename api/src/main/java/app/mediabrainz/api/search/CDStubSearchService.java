@@ -8,8 +8,6 @@ import app.mediabrainz.api.model.CDStub.CDStubSearch;
  * unconditional search: Query terms without a field specifier will search the ARTIST and TITLE fields.
  *   new CDStubSearchService().search("Mac")
  *   new CDStubSearchService().search("France", 5, 10)
- *
- * Created by Alex on 20.11.2017.
  */
 
 public class CDStubSearchService extends
