@@ -6,9 +6,7 @@ import app.mediabrainz.api.model.Area;
 
 import static app.mediabrainz.api.lookup.IncType.*;
 
-/**
- * Created by Alex on 16.11.2017.
- */
+
 public class AreaLookupService extends BaseLookupService<Area, AreaLookupService.AreaIncType> {
 
     public AreaLookupService(String mbid) {

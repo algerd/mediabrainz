@@ -6,9 +6,6 @@ import java.util.List;
 
 import app.mediabrainz.api.model.relations.Relation;
 
-/**
- * Created by Alex on 16.11.2017.
- */
 
 public abstract class BaseLookupEntity {
 

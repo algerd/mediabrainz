@@ -4,9 +4,7 @@ import com.squareup.moshi.Json;
 
 import java.util.List;
 
-/**
- * Created by Alex on 24.11.2017.
- */
+
 public class Instrument extends BaseLookupEntity {
 
     public static class InstrumentSearch extends BaseSearch {

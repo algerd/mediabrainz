@@ -11,8 +11,6 @@ import static app.mediabrainz.api.search.AreaSearchService.AreaSearchField.TYPE;
  * unconditional search: Area search terms with no fields specified search the AREA and SORTNAME fields.
  *   new AreaSearchService().search("France")
  *   new AreaSearchService().search("France", 5, 10)
- *
- * Created by Alex on 20.11.2017.
  */
 
 public class AreaSearchService extends

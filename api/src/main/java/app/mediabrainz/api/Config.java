@@ -2,6 +2,7 @@ package app.mediabrainz.api;
 
 import com.burgstaller.okhttp.digest.Credentials;
 
+
 public class Config {
 
     public static String accessToken;

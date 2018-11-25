@@ -2,6 +2,7 @@ package app.mediabrainz.adapter.recycler.tracks;
 
 import app.mediabrainz.adapter.recycler.expandedRecycler.BaseHeader;
 
+
 public class Header extends BaseHeader {
 
     private String title;

@@ -14,7 +14,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.AreaCollectionAdapter;
 import app.mediabrainz.adapter.recycler.ArtistCollectionAdapter;
 import app.mediabrainz.adapter.recycler.EventCollectionAdapter;

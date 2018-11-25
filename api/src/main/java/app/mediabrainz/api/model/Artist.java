@@ -6,7 +6,6 @@ import java.util.List;
 
 /**
  * https://musicbrainz.org/doc/Artist
- * Created by Alex on 13.11.2017.
  */
 
 public class Artist extends BaseLookupEntity {

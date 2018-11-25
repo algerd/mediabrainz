@@ -21,9 +21,6 @@ import static app.mediabrainz.api.browse.BrowseServiceInterface.BrowseParamType.
 import static app.mediabrainz.api.browse.BrowseServiceInterface.IncTypeInterface;
 import static app.mediabrainz.api.lookup.LookupServiceInterface.RelsType;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public abstract class BaseBrowseService
         <R, P1 extends Enum<P1> & IncTypeInterface, P2 extends Enum<P2> & BaseBrowseService.BrowseEntityTypeInterface>

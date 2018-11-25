@@ -14,7 +14,7 @@ import android.widget.AutoCompleteTextView;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.pager.EditTagsPagerAdapter;
 import app.mediabrainz.api.model.Artist;
 import app.mediabrainz.api.model.Recording;

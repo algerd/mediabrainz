@@ -3,6 +3,7 @@ package app.mediabrainz.account;
 import android.accounts.Account;
 import android.os.Parcel;
 
+
 public class MediaBrainzAccount extends Account {
 
     public static final String ACCOUNT_TYPE = "app.mediabrainz";

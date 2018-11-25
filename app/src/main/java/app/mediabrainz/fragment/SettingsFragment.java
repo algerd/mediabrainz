@@ -8,7 +8,7 @@ import android.preference.PreferenceManager;
 import android.provider.SearchRecentSuggestions;
 import android.widget.Toast;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.data.DatabaseHelper;
 import app.mediabrainz.suggestion.SuggestionProvider;
 

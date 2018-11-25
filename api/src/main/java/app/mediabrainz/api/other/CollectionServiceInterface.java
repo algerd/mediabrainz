@@ -16,9 +16,6 @@ import static app.mediabrainz.api.model.Collection.RELEASE_GROUP_ENTITY_TYPE;
 import static app.mediabrainz.api.model.Collection.SERIES_ENTITY_TYPE;
 import static app.mediabrainz.api.model.Collection.WORK_ENTITY_TYPE;
 
-/**
- * Created by Alex on 04.12.2017.
- */
 
 public interface CollectionServiceInterface {
 

@@ -9,9 +9,6 @@ import static app.mediabrainz.api.search.LuceneBuilder.Operator.AND;
 import static app.mediabrainz.api.search.LuceneBuilder.Operator.NOT;
 import static app.mediabrainz.api.search.LuceneBuilder.Operator.OR;
 
-/**
- * Created by Alex on 22.11.2017.
- */
 
 public class LuceneBuilder {
 

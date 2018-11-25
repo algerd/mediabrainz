@@ -2,9 +2,6 @@ package app.mediabrainz.api.core;
 
 import static app.mediabrainz.api.Config.WEB_SERVICE;
 
-/**
- * Created by Alex on 15.11.2017.
- */
 
 public abstract class BaseWebService {
 

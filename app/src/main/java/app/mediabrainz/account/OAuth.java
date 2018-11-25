@@ -24,10 +24,6 @@ import static app.mediabrainz.account.MediaBrainzAccount.EXPIRE_IN;
 import static app.mediabrainz.account.MediaBrainzAccount.REFRESH_TOKEN;
 
 
-/**
- * Created by Alex on 18.12.2017.
- */
-
 public class OAuth {
 
     private static final String CLIENT_ID = "KoSg5TjyO7cMYXjt2kvz8g";

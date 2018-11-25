@@ -6,9 +6,6 @@ import io.reactivex.Flowable;
 import retrofit2.adapter.rxjava2.Result;
 import app.mediabrainz.api.wiki.model.Wikipedia;
 
-/**
- * Created by Alex on 29.01.2018.
- */
 
 public interface WikiServiceInterface {
 

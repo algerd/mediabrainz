@@ -4,9 +4,6 @@ import io.reactivex.Flowable;
 import retrofit2.adapter.rxjava2.Result;
 import app.mediabrainz.api.lookup.LookupServiceInterface;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public interface BrowseServiceInterface
         <R, P extends Enum<P> & BrowseServiceInterface.IncTypeInterface> {

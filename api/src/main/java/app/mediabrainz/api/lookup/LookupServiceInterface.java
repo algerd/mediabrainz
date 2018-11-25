@@ -5,9 +5,6 @@ import retrofit2.adapter.rxjava2.Result;
 import app.mediabrainz.api.model.BaseLookupEntity;
 import app.mediabrainz.api.browse.BrowseServiceInterface;
 
-/**
- * Created by Alex on 16.11.2017.
- */
 
 public interface LookupServiceInterface
         <R extends BaseLookupEntity, P extends Enum<P> & LookupServiceInterface.IncTypeInterface> {

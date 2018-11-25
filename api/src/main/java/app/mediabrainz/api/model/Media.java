@@ -4,9 +4,7 @@ import com.squareup.moshi.Json;
 
 import java.util.List;
 
-/**
- * Created by Alex on 27.11.2017.
- */
+
 public class Media {
 
     // TODO: add formats

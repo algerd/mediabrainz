@@ -16,10 +16,6 @@ import app.mediabrainz.api.model.xml.UserTagXML;
 import app.mediabrainz.api.core.BaseWebService;
 
 
-/**
- * Created by Alex on 30.11.2017.
- */
-
 public class PostWebService extends BaseWebService implements PostWebServiceInterface {
 
     public static final String CLIENT_QUERY = "client";

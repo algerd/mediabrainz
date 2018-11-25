@@ -6,12 +6,14 @@ import android.preference.PreferenceManager;
 
 import app.mediabrainz.MediaBrainzApp;
 
+
 public class Preferences {
 
     private static final String USER_PREFERENCE_FILE = "user";
 
     private interface PreferenceName {
         String SUGGESTIONS = "search_suggestions";
+        String LOAD_IMAGES = "load_images";
     }
 
     public void clearData() {
@@ -26,6 +28,15 @@ public class Preferences {
 
     public boolean isSearchSuggestionsEnabled() {
         return getDefaultPreferences().getBoolean(PreferenceName.SUGGESTIONS, true);
+    }
+
+    public void setLoadImagesEnabled(boolean enabled) {
+        SharedPreferences prefs = getDefaultPreferences();
+        prefs.edit().putBoolean(PreferenceName.LOAD_IMAGES, enabled).apply();
+    }
+
+    public boolean isLoadImagesEnabled() {
+        return getDefaultPreferences().getBoolean(PreferenceName.LOAD_IMAGES, true);
     }
 
     private SharedPreferences getDefaultPreferences() {

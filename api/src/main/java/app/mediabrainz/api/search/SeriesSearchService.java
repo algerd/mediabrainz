@@ -11,8 +11,6 @@ import static app.mediabrainz.api.search.SeriesSearchService.SeriesSearchField.T
  * unconditional search: Series search terms with no fields specified search the name and alias fields.
  *  new SeriesSearchService().search("rock")
  *  new SeriesSearchService().search("rock", 5, 10)
- *
- * Created by Alex on 15.11.2017.
  */
 public class SeriesSearchService extends
         BaseSearchService<SeriesSearch, SeriesSearchService.SeriesSearchField> {

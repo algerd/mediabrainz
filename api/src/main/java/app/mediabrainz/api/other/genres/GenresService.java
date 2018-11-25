@@ -1,6 +1,5 @@
 package app.mediabrainz.api.other.genres;
 
-
 import org.json.JSONArray;
 import org.json.JSONObject;
 import app.mediabrainz.api.core.WebService;
@@ -16,6 +15,7 @@ import retrofit2.Response;
 import retrofit2.adapter.rxjava2.Result;
 
 import static app.mediabrainz.api.other.genres.GenresRetrofitService.ENDPOINT;
+
 
 public class GenresService implements GenresServiceInterface {
 

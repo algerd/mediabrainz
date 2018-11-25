@@ -6,14 +6,11 @@ import android.view.ViewGroup;
 
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.expandedRecycler.BaseExpandedRecyclerAdapter;
 import app.mediabrainz.adapter.recycler.expandedRecycler.Section;
 import app.mediabrainz.api.model.relations.Relation;
 
-/**
- * Created by Alex on 22.03.2018.
- */
 
 public class ArtistRelationsAdapter extends BaseExpandedRecyclerAdapter<Relation> {
 

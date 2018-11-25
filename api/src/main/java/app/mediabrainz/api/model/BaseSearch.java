@@ -2,9 +2,6 @@ package app.mediabrainz.api.model;
 
 import com.squareup.moshi.Json;
 
-/**
- * Created by Alex on 15.11.2017.
- */
 
 public abstract class BaseSearch {
 

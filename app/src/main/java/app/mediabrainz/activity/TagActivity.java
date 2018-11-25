@@ -6,7 +6,7 @@ import android.support.v4.view.ViewPager;
 import android.view.View;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.pager.TagPagerAdapter;
 import app.mediabrainz.communicator.GetTagCommunicator;
 import app.mediabrainz.communicator.OnArtistCommunicator;
@@ -18,6 +18,7 @@ import app.mediabrainz.intent.ActivityFactory;
 import app.mediabrainz.util.ShowUtil;
 
 import static app.mediabrainz.MediaBrainzApp.api;
+
 
 public class TagActivity extends BaseActivity implements
         OnArtistCommunicator,

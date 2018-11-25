@@ -7,9 +7,6 @@ import app.mediabrainz.api.model.Label;
 import static app.mediabrainz.api.lookup.IncType.*;
 import static app.mediabrainz.api.browse.EntityType.*;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public class LabelBrowseService extends
         BaseBrowseService<Label.LabelBrowse, LabelBrowseService.LabelIncType, LabelBrowseService.LabelBrowseEntityType> {

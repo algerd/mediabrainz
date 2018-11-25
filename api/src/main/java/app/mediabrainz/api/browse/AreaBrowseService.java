@@ -7,9 +7,6 @@ import app.mediabrainz.api.model.Area;
 import static app.mediabrainz.api.lookup.IncType.*;
 import static app.mediabrainz.api.browse.EntityType.COLLECTION_ENTITY;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public class AreaBrowseService extends
         BaseBrowseService<Area.AreaBrowse, AreaBrowseService.AreaIncType, AreaBrowseService.AreaBrowseEntityType> {

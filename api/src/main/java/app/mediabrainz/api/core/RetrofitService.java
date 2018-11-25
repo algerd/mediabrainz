@@ -53,9 +53,7 @@ import static app.mediabrainz.api.Config.URL_QUERY;
 import static app.mediabrainz.api.Config.WEB_SERVICE_PREFIX;
 import static app.mediabrainz.api.Config.WORK_QUERY;
 
-/**
- * Created by Alex on 16.11.2017.
- */
+
 public interface RetrofitService {
 
     @PUT(COLLECTION_QUERY + "/{collId}/{collType}/{ids}")

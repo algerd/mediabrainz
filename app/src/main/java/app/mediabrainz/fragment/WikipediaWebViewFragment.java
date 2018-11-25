@@ -18,7 +18,7 @@ import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.model.Url;
 import app.mediabrainz.communicator.GetUrlsCommunicator;
 import app.mediabrainz.communicator.SetWebViewCommunicator;

@@ -6,6 +6,7 @@ import android.support.v4.view.ViewCompat;
 import android.view.View;
 import android.widget.FrameLayout;
 
+
 public class BottomNavigationBehavior extends CoordinatorLayout.Behavior<BottomNavigationView> {
 
     public BottomNavigationBehavior() {

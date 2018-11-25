@@ -13,16 +13,13 @@ import android.widget.TextView;
 
 import java.util.Objects;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.site.Rating;
 import app.mediabrainz.util.ShowUtil;
 
 import static app.mediabrainz.MediaBrainzApp.api;
 import static app.mediabrainz.MediaBrainzApp.oauth;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class RecordingRatingsAdapter extends BasePagedListAdapter<Rating> {
 

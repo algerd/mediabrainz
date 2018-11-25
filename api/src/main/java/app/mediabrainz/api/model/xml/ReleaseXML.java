@@ -1,9 +1,5 @@
 package app.mediabrainz.api.model.xml;
 
-/**
- * Created by Alex on 01.12.2017.
- */
-
 import org.simpleframework.xml.Attribute;
 import org.simpleframework.xml.Element;
 import org.simpleframework.xml.Root;

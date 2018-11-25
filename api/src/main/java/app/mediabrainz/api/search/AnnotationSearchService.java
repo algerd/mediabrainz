@@ -4,9 +4,6 @@ import io.reactivex.Flowable;
 import retrofit2.adapter.rxjava2.Result;
 import app.mediabrainz.api.model.Annotation.AnnotationSearch;
 
-/**
- * Created by Alex on 20.11.2017.
- */
 
 public class AnnotationSearchService extends
         BaseSearchService<AnnotationSearch, AnnotationSearchService.AnnotationSearchField> {

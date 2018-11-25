@@ -4,10 +4,11 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.expandedRecycler.BaseHeader;
 import app.mediabrainz.adapter.recycler.expandedRecycler.BaseHeaderViewHolder;
 import app.mediabrainz.util.MbUtils;
+
 
 public class HeaderViewHolder extends BaseHeaderViewHolder {
 

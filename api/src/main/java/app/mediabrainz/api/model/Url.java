@@ -4,9 +4,6 @@ import com.squareup.moshi.Json;
 
 import app.mediabrainz.api.core.ApiUtils;
 
-/**
- * Created by Alex on 23.11.2017.
- */
 
 public class Url extends BaseLookupEntity implements Comparable<Url> {
 

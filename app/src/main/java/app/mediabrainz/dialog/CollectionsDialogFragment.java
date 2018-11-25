@@ -11,7 +11,7 @@ import android.widget.Button;
 
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.DialogCollectionsAdapter;
 import app.mediabrainz.api.model.Collection;
 import app.mediabrainz.communicator.GetCollectionsCommunicator;

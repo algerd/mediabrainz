@@ -15,7 +15,7 @@ import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.ArtistRatingsAdapter;
 import app.mediabrainz.adapter.recycler.BasePagedListAdapter;
 import app.mediabrainz.adapter.recycler.RecordingRatingsAdapter;

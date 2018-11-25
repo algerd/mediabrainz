@@ -10,7 +10,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.UserTagsAdapter;
 import app.mediabrainz.api.model.Tag;
 import app.mediabrainz.communicator.GetGenresCommunicator;

@@ -4,9 +4,7 @@ import com.squareup.moshi.Json;
 
 import java.util.List;
 
-/**
- * Created by Alex on 23.11.2017.
- */
+
 public class Event extends BaseLookupEntity {
 
     public static class EventSearch extends BaseSearch {

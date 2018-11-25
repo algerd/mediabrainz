@@ -7,7 +7,7 @@ import android.widget.LinearLayout;
 import android.widget.RatingBar;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.expandedRecycler.BaseItemViewHolder;
 import app.mediabrainz.api.model.Media;
 import app.mediabrainz.api.model.Rating;
@@ -18,6 +18,7 @@ import app.mediabrainz.util.ShowUtil;
 
 import static app.mediabrainz.MediaBrainzApp.api;
 import static app.mediabrainz.MediaBrainzApp.oauth;
+
 
 public class ItemViewHolder extends BaseItemViewHolder {
 

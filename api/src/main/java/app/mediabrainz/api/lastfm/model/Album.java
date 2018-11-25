@@ -2,9 +2,6 @@ package app.mediabrainz.api.lastfm.model;
 
 import com.squareup.moshi.Json;
 
-/**
- * Created by Alex on 26.02.2018.
- */
 
 public class Album {
 

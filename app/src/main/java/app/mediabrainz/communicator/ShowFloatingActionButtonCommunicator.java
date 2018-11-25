@@ -1,10 +1,7 @@
 package app.mediabrainz.communicator;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 
-/**
- * Created by Alex on 20.03.2018.
- */
 
 public interface ShowFloatingActionButtonCommunicator {
 

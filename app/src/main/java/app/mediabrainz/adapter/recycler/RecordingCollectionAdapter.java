@@ -11,7 +11,7 @@ import android.widget.LinearLayout;
 import android.widget.RatingBar;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.model.Rating;
 import app.mediabrainz.api.model.Recording;
 import app.mediabrainz.intent.ActivityFactory;
@@ -23,9 +23,6 @@ import java.util.List;
 import static app.mediabrainz.MediaBrainzApp.api;
 import static app.mediabrainz.MediaBrainzApp.oauth;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class RecordingCollectionAdapter extends BaseRecyclerViewAdapter<RecordingCollectionAdapter.RecordingCollectionViewHolder> {
 

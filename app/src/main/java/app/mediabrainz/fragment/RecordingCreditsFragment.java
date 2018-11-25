@@ -14,7 +14,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.CreditsAdapter;
 import app.mediabrainz.api.model.Recording;
 import app.mediabrainz.api.model.RelationExtractor;

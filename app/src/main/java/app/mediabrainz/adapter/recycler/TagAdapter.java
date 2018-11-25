@@ -9,15 +9,12 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.model.Tag;
 
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Created by Alex on 19.02.2018.
- */
 
 public class TagAdapter extends BaseRecyclerViewAdapter<TagAdapter.TagViewHolder> {
 

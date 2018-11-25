@@ -3,9 +3,6 @@ package app.mediabrainz.api.core;
 import java.util.List;
 import java.util.StringTokenizer;
 
-/**
- * Created by Alex on 04.12.2017.
- */
 
 public class ApiUtils {
 

@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.expandedRecycler.Section;
 import app.mediabrainz.adapter.recycler.tracks.Header;
 import app.mediabrainz.adapter.recycler.tracks.TracksAdapter;

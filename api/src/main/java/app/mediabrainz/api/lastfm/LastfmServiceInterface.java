@@ -4,9 +4,6 @@ import io.reactivex.Flowable;
 import retrofit2.adapter.rxjava2.Result;
 import app.mediabrainz.api.lastfm.model.LastfmResult;
 
-/**
- * Created by Alex on 30.01.2018.
- */
 
 public interface LastfmServiceInterface {
 

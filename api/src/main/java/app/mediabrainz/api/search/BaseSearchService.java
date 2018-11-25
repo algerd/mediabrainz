@@ -15,9 +15,6 @@ import static app.mediabrainz.api.search.SearchServiceInterface.SearchParamType.
 import static app.mediabrainz.api.search.SearchServiceInterface.SearchParamType.OFFSET;
 import static app.mediabrainz.api.search.SearchServiceInterface.SearchParamType.QUERY;
 
-/**
- * Created by Alex on 13.11.2017.
- */
 
 public abstract class BaseSearchService
         <R extends BaseSearch, P extends Enum<P> & SearchServiceInterface.SearchFieldInterface>

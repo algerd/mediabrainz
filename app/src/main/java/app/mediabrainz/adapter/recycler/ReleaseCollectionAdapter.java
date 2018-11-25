@@ -12,7 +12,8 @@ import android.widget.TextView;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.MediaBrainzApp;
+import app.mediabrainz.R;
 import app.mediabrainz.api.coverart.CoverArtImage;
 import app.mediabrainz.api.model.Release;
 
@@ -21,9 +22,6 @@ import java.util.List;
 
 import static app.mediabrainz.MediaBrainzApp.api;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class ReleaseCollectionAdapter extends BaseRecyclerViewAdapter<ReleaseCollectionAdapter.ReleaseCollectionViewHolder> {
 
@@ -62,8 +60,10 @@ public class ReleaseCollectionAdapter extends BaseRecyclerViewAdapter<ReleaseCol
         }
 
         private void loadReleaseImage() {
-            if (release.getCoverArt() != null &&
-                    release.getCoverArt().getFront() != null && release.getCoverArt().getFront()) {
+            if (MediaBrainzApp.getPreferences().isLoadImagesEnabled() &&
+                    release.getCoverArt() != null &&
+                    release.getCoverArt().getFront() != null &&
+                    release.getCoverArt().getFront()) {
 
                 showImageProgressLoading(true);
                 api.getReleaseCoverArt(

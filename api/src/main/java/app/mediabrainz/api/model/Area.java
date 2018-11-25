@@ -6,7 +6,6 @@ import java.util.List;
 
 /**
  * https://musicbrainz.org/doc/Area
- * Created by Alex on 14.11.2017.
  */
 
 public class Area extends BaseLookupEntity {

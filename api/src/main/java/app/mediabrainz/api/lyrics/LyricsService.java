@@ -33,9 +33,6 @@ import org.jsoup.nodes.Element;
 import org.jsoup.parser.Parser;
 import org.jsoup.safety.Whitelist;
 
-/**
- * Created by Alex on 29.01.2018.
- */
 
 public class LyricsService implements LyricsServiceInterface {
 

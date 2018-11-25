@@ -5,15 +5,11 @@ import android.content.Context;
 import android.text.TextUtils;
 import android.widget.Toast;
 
-/**
- * Created by Alex on 18.12.2017.
- */
 
 public class ShowUtil {
 
     public static void showError(Context context, Throwable t) {
         Toast.makeText(context, t.getMessage(), Toast.LENGTH_LONG).show();
-        //Log.e(context.getClass().getSimpleName(), "Exception from Retrofit request to musicbrainz.org", t);
     }
 
     public static void showMessage(Activity activity, final String msg) {

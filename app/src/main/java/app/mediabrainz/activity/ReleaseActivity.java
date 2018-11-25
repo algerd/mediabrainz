@@ -12,7 +12,7 @@ import android.view.View;
 import android.webkit.WebView;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.pager.BaseFragmentPagerAdapter;
 import app.mediabrainz.adapter.pager.ReleaseNavigationPagerAdapter;
 import app.mediabrainz.adapter.pager.TagPagerAdapter;
@@ -55,6 +55,7 @@ import static app.mediabrainz.api.model.Collection.RELEASE_ENTITY_TYPE;
 import static app.mediabrainz.api.model.Collection.RELEASE_GROUP_ENTITY_TYPE;
 import static app.mediabrainz.api.model.Collection.RELEASE_GROUP_TYPE;
 import static app.mediabrainz.api.model.Collection.RELEASE_TYPE;
+
 
 public class ReleaseActivity extends BaseBottomNavActivity implements
         ShowFloatingActionButtonCommunicator,

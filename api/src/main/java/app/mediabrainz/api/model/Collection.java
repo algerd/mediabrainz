@@ -6,7 +6,6 @@ import java.util.List;
 
 /**
  * lookup example: https://musicbrainz.org/ws/2/collection/0a5c389a-fd5b-4901-83e7-171419318172?fmt=json
- * Created by Alex on 25.11.2017.
  */
 
 public class Collection  extends BaseLookupEntity {

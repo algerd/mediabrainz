@@ -4,11 +4,12 @@ import android.text.TextUtils;
 import android.view.View;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.expandedRecycler.BaseItemViewHolder;
 import app.mediabrainz.api.core.ApiUtils;
 import app.mediabrainz.api.model.Artist;
 import app.mediabrainz.api.model.relations.Relation;
+
 
 public class ItemViewHolder extends BaseItemViewHolder {
 

@@ -14,6 +14,7 @@ import app.mediabrainz.activity.LoginActivity;
 
 import static android.accounts.AccountManager.KEY_BOOLEAN_RESULT;
 
+
 public class MediaBrainzAuthenticator extends AbstractAccountAuthenticator {
 
     private final Context mContext;
@@ -24,8 +25,7 @@ public class MediaBrainzAuthenticator extends AbstractAccountAuthenticator {
     }
 
     @Override
-    public Bundle addAccount(AccountAuthenticatorResponse response, String accountType, String authTokenType, String[] requiredFeatures, Bundle options)
-            throws NetworkErrorException {
+    public Bundle addAccount(AccountAuthenticatorResponse response, String accountType, String authTokenType, String[] requiredFeatures, Bundle options) {
 
         final Intent intent = new Intent(mContext, LoginActivity.class);
         intent.putExtra(AccountManager.KEY_ACCOUNT_AUTHENTICATOR_RESPONSE, response);
@@ -35,8 +35,7 @@ public class MediaBrainzAuthenticator extends AbstractAccountAuthenticator {
     }
 
     @Override
-    public Bundle getAuthToken(AccountAuthenticatorResponse response, Account account, String authTokenType, Bundle options)
-            throws NetworkErrorException {
+    public Bundle getAuthToken(AccountAuthenticatorResponse response, Account account, String authTokenType, Bundle options) {
         return null;
     }
 

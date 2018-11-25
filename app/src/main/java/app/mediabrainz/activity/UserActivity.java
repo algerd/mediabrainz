@@ -9,7 +9,7 @@ import android.support.v4.app.Fragment;
 import android.view.View;
 import android.widget.EditText;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.pager.BaseFragmentPagerAdapter;
 import app.mediabrainz.adapter.pager.CollectionsPagerAdapter;
 import app.mediabrainz.adapter.pager.UserNavigationPagerAdapter;
@@ -45,6 +45,7 @@ import static app.mediabrainz.adapter.pager.UserNavigationPagerAdapter.TAB_PROFI
 import static app.mediabrainz.adapter.pager.UserNavigationPagerAdapter.TAB_RATINGS_POS;
 import static app.mediabrainz.adapter.pager.UserNavigationPagerAdapter.TAB_RECOMMENDS_POS;
 import static app.mediabrainz.adapter.pager.UserNavigationPagerAdapter.TAB_TAGS_POS;
+
 
 public class UserActivity extends BaseBottomNavActivity implements
         GetUsernameCommunicator,

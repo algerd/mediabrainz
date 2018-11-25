@@ -4,9 +4,6 @@ import java.io.IOException;
 
 import retrofit2.Response;
 
-/**
- * Created by Alex on 07.12.2017.
- */
 
 public class HttpException extends Exception {
 

@@ -10,9 +10,6 @@ import android.view.ViewGroup;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by Alex on 21.02.2018.
- */
 
 public abstract class BaseFragmentPagerAdapter extends FragmentPagerAdapter implements FragmentPagerAdapterInterface {
 

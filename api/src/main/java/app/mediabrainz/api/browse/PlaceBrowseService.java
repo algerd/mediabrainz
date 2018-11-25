@@ -8,9 +8,6 @@ import static app.mediabrainz.api.browse.EntityType.AREA_ENTITY;
 import static app.mediabrainz.api.browse.EntityType.COLLECTION_ENTITY;
 import static app.mediabrainz.api.lookup.IncType.*;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public class PlaceBrowseService extends
         BaseBrowseService<Place.PlaceBrowse, PlaceBrowseService.PlaceIncType, PlaceBrowseService.PlaceBrowseEntityType> {

@@ -14,7 +14,7 @@ import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.PagedReleaseAdapter;
 import app.mediabrainz.adapter.recycler.RetryCallback;
 import app.mediabrainz.api.browse.ReleaseBrowseService;
@@ -26,7 +26,7 @@ import app.mediabrainz.ui.ReleasesViewModel;
 public class PagedReleaseDialogFragment extends DialogFragment implements
         RetryCallback {
 
-    public static final String TAG = "ReleaseDialogFragment";
+    public static final String TAG = "PagedReleaseDialogFragment";
     private static final String RG_MBID = "RG_MBID";
 
     private String albumMbid;
@@ -88,7 +88,6 @@ public class PagedReleaseDialogFragment extends DialogFragment implements
 
     @Override
     public void onResume() {
-        // Sets the height and the width of the DialogFragment
         int width = LinearLayout.LayoutParams.MATCH_PARENT;
         int height = LinearLayout.LayoutParams.WRAP_CONTENT;
         getDialog().getWindow().setLayout(width, height);
@@ -121,16 +120,13 @@ public class PagedReleaseDialogFragment extends DialogFragment implements
         releasesViewModel.getRefreshState().observe(this, networkState -> {
             if (networkState != null) {
 
-                //Show the current network state for the first getWikidata when the rating list
-                //in the adapter is empty and disable swipe to scroll at the first loading
                 if (adapter.getCurrentList() == null || adapter.getCurrentList().size() == 0) {
                     itemNetworkState.setVisibility(View.VISIBLE);
-                    //error message
+
                     errorMessageTextView.setVisibility(networkState.getMessage() != null ? View.VISIBLE : View.GONE);
                     if (networkState.getMessage() != null) {
                         errorMessageTextView.setText(networkState.getMessage());
                     }
-                    //loading and retry
                     retryLoadingButton.setVisibility(networkState.getStatus() == Status.FAILED ? View.VISIBLE : View.GONE);
                     loadingProgressBar.setVisibility(networkState.getStatus() == Status.RUNNING ? View.VISIBLE : View.GONE);
 

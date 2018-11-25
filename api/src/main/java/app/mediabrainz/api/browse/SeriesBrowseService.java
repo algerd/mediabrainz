@@ -7,9 +7,6 @@ import app.mediabrainz.api.model.Series;
 import static app.mediabrainz.api.browse.EntityType.COLLECTION_ENTITY;
 import static app.mediabrainz.api.lookup.IncType.*;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public class SeriesBrowseService extends
         BaseBrowseService<Series.SeriesBrowse, SeriesBrowseService.SeriesIncType, SeriesBrowseService.SeriesBrowseEntityType> {

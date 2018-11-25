@@ -6,15 +6,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.core.ApiUtils;
 import app.mediabrainz.api.model.relations.Relation;
 
 import java.util.List;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class CreditsAdapter extends BaseRecyclerViewAdapter<CreditsAdapter.CreditsViewHolder> {
 

@@ -11,9 +11,6 @@ import retrofit2.http.POST;
 import retrofit2.http.Path;
 import retrofit2.http.Query;
 
-/**
- * Created by Alex on 07.12.2017.
- */
 
 public interface SiteRetrofitService {
 

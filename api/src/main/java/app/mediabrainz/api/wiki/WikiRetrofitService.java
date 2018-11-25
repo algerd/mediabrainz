@@ -11,9 +11,6 @@ import retrofit2.http.Path;
 import retrofit2.http.QueryMap;
 import app.mediabrainz.api.wiki.model.Wikipedia;
 
-/**
- * Created by Alex on 29.01.2018.
- */
 
 public interface WikiRetrofitService {
 

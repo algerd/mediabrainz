@@ -14,7 +14,7 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.Spinner;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.communicator.OnCreateCollectionCommunicator;
 import app.mediabrainz.communicator.ShowTitleCommunicator;
 

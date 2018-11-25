@@ -7,7 +7,6 @@ import java.util.Objects;
 
 /**
  * https://musicbrainz.org/doc/Folksonomy_Tagging
- * Created by Alex on 16.11.2017.
  */
 
 public class Tag {

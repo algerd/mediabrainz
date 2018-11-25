@@ -1,9 +1,5 @@
 package app.mediabrainz.api.browse;
 
-/**
- * Created by Alex on 21.12.2017.
- */
-
 public class EntityType {
 
     public static final String AREA_ENTITY = "area";

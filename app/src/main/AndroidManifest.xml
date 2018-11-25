@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="app.mediabrainz.app">
+          package="app.mediabrainz">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
@@ -26,7 +26,7 @@
 
         <provider
             android:name="app.mediabrainz.suggestion.SuggestionProvider"
-            android:authorities="app.mediabrainz.app.SearchSuggestionProvider"/>
+            android:authorities="app.mediabrainz.SearchSuggestionProvider"/>
 
         <service android:name="app.mediabrainz.account.MediaBrainzAuthenticatorService">
             <intent-filter>

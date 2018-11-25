@@ -12,8 +12,6 @@ import static app.mediabrainz.api.search.ReleaseGroupSearchService.ReleaseGroupS
  * unconditional search: Release group search terms with no fields search the RELEASE_GROUP field only.
  *  new ReleaseGroupSearchService().search("black")
  *  new ReleaseGroupSearchService().search("black", 1, 10)
- *
- * Created by Alex on 20.11.2017.
  */
 
 public class ReleaseGroupSearchService extends

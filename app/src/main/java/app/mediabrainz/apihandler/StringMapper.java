@@ -6,14 +6,12 @@ import android.text.TextUtils;
 import java.util.List;
 
 import app.mediabrainz.MediaBrainzApp;
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.model.ReleaseGroup;
 import app.mediabrainz.api.model.ReleaseGroup.PrimaryType;
 import app.mediabrainz.api.model.ReleaseGroup.SecondaryType;
 
-/**
- * Static methods to map strings returned by webservice to values in strings.xml
- */
+
 public class StringMapper {
 
     public static String mapReleaseGroupTypeString(ReleaseGroup releaseGroup) {

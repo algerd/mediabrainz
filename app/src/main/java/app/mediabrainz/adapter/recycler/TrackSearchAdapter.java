@@ -6,13 +6,14 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.core.ApiUtils;
 import app.mediabrainz.api.model.Artist;
 import app.mediabrainz.api.model.Recording;
 import app.mediabrainz.api.model.Release;
 
 import java.util.List;
+
 
 public class TrackSearchAdapter extends BaseRecyclerViewAdapter<TrackSearchAdapter.TrackSearchViewHolder> {
 

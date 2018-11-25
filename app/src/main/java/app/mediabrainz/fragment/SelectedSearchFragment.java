@@ -14,7 +14,7 @@ import android.widget.AutoCompleteTextView;
 import android.widget.Spinner;
 
 import app.mediabrainz.MediaBrainzApp;
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.activity.SearchType;
 import app.mediabrainz.intent.ActivityFactory;
 import app.mediabrainz.suggestion.SuggestionHelper;

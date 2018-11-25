@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.TextView;
 
 import app.mediabrainz.MediaBrainzApp;
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.recycler.ArtistSearchAdapter;
 import app.mediabrainz.adapter.recycler.ReleaseAdapter;
 import app.mediabrainz.adapter.recycler.ReleaseGroupSearchAdapter;
@@ -40,7 +40,6 @@ public class SearchActivity extends BaseActivity implements
         GetReleasesCommunicator,
         LoadingCommunicator {
 
-    // artistSearch:
     // !!! for SearchView.OnQueryTextListener (BaseActivity)
     public static final String QUERY = "query";
 

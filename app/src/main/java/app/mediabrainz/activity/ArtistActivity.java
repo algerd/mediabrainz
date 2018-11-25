@@ -13,7 +13,7 @@ import android.webkit.WebView;
 import java.util.ArrayList;
 import java.util.List;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.adapter.pager.ArtistNavigationPagerAdapter;
 import app.mediabrainz.adapter.pager.BaseFragmentPagerAdapter;
 import app.mediabrainz.adapter.pager.TagPagerAdapter;

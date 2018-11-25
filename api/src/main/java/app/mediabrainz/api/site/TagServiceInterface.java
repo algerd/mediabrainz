@@ -8,6 +8,7 @@ import java.util.Map;
 import io.reactivex.Flowable;
 import retrofit2.adapter.rxjava2.Result;
 
+
 public interface TagServiceInterface {
 
     enum TagType {

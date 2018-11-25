@@ -7,9 +7,6 @@ import app.mediabrainz.api.model.Artist;
 import static app.mediabrainz.api.lookup.IncType.*;
 import static app.mediabrainz.api.browse.EntityType.*;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public class ArtistBrowseService extends
         BaseBrowseService<Artist.ArtistBrowse, ArtistBrowseService.ArtistIncType, ArtistBrowseService.ArtistBrowseEntityType> {

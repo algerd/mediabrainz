@@ -7,9 +7,6 @@ import app.mediabrainz.api.model.Event;
 import static app.mediabrainz.api.lookup.IncType.*;
 import static app.mediabrainz.api.browse.EntityType.*;
 
-/**
- * Created by Alex on 17.11.2017.
- */
 
 public class EventBrowseService extends
         BaseBrowseService<Event.EventBrowse, EventBrowseService.EventIncType, EventBrowseService.EventBrowseEntityType> {

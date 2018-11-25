@@ -19,6 +19,7 @@ import app.mediabrainz.util.MbUtils;
 
 import static app.mediabrainz.MediaBrainzApp.api;
 
+
 public class ReleasesDataSource extends PageKeyedDataSource<Integer, Release> {
 
     public static final int RELEASE_BROWSE_LIMIT = 100;

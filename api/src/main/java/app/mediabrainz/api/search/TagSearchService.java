@@ -8,8 +8,6 @@ import app.mediabrainz.api.model.Tag.TagSearch;
  * Require only digest autorization.
  *  new TagSearchService().search("rock")
  *  new TagSearchService().search("rock", 1, 10)
- *
- * Created by Alex on 20.11.2017.
  */
 
 public class TagSearchService extends

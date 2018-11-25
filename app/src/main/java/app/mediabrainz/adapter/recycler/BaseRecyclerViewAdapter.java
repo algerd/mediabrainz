@@ -6,9 +6,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by Alex on 20.01.2018.
- */
 
 public abstract class BaseRecyclerViewAdapter<BVH extends BaseRecyclerViewAdapter.BaseViewHolder> extends RecyclerView.Adapter<BVH> {
 

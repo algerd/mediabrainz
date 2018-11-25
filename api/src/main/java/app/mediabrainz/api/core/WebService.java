@@ -20,9 +20,6 @@ import app.mediabrainz.api.Config;
 
 import static app.mediabrainz.api.Config.USER_AGENT_HEADER;
 
-/**
- * Created by Alex on 05.02.2018.
- */
 
 public class WebService<T> implements WebServiceInterface<T> {
 

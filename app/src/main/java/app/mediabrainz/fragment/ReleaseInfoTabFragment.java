@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 
 
 public class ReleaseInfoTabFragment extends Fragment {

@@ -13,7 +13,8 @@ import android.widget.TextView;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.MediaBrainzApp;
+import app.mediabrainz.R;
 import app.mediabrainz.api.coverart.CoverArtImage;
 import app.mediabrainz.api.model.Label;
 import app.mediabrainz.api.model.Media;
@@ -27,9 +28,6 @@ import java.util.List;
 
 import static app.mediabrainz.MediaBrainzApp.api;
 
-/**
- * Created by Alex on 19.02.2018.
- */
 
 public class ReleaseAdapter extends BaseRecyclerViewAdapter<ReleaseAdapter.ReleaseViewHolder> {
 
@@ -114,29 +112,33 @@ public class ReleaseAdapter extends BaseRecyclerViewAdapter<ReleaseAdapter.Relea
             String f = StringFormat.buildReleaseFormatsString(itemView.getContext(), medias);
             format.setText(itemView.getResources().getString(R.string.r_tracks, f, trackCount));
 
-            showImageProgressLoading(true);
-            api.getReleaseCoverArt(
-                    release.getId(),
-                    coverArt -> {
-                        CoverArtImage.Thumbnails thumbnails = coverArt.getFrontThumbnails();
-                        if (thumbnails != null && !TextUtils.isEmpty(thumbnails.getSmall())) {
-                            Picasso.get().load(thumbnails.getSmall()).fit()
-                                    .into(coverart, new Callback() {
-                                        @Override
-                                        public void onSuccess() {
-                                            showImageProgressLoading(false);
-                                        }
+            if (MediaBrainzApp.getPreferences().isLoadImagesEnabled()) {
+                showImageProgressLoading(true);
+                api.getReleaseCoverArt(
+                        release.getId(),
+                        coverArt -> {
+                            CoverArtImage.Thumbnails thumbnails = coverArt.getFrontThumbnails();
+                            if (thumbnails != null && !TextUtils.isEmpty(thumbnails.getSmall())) {
+                                Picasso.get().load(thumbnails.getSmall()).fit()
+                                        .into(coverart, new Callback() {
+                                            @Override
+                                            public void onSuccess() {
+                                                showImageProgressLoading(false);
+                                            }
 
-                                        @Override
-                                        public void onError(Exception e) {
-                                            showImageProgressLoading(false);
-                                        }
-                                    });
-                        } else {
-                            showImageProgressLoading(false);
-                        }
-                    },
-                    t -> showImageProgressLoading(false));
+                                            @Override
+                                            public void onError(Exception e) {
+                                                showImageProgressLoading(false);
+                                            }
+                                        });
+                            } else {
+                                showImageProgressLoading(false);
+                            }
+                        },
+                        t -> showImageProgressLoading(false));
+            } else {
+                showImageProgressLoading(false);
+            }
         }
 
         private void showImageProgressLoading(boolean show) {

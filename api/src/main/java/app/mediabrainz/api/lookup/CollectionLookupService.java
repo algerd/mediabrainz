@@ -4,9 +4,6 @@ import io.reactivex.Flowable;
 import retrofit2.adapter.rxjava2.Result;
 import app.mediabrainz.api.model.Collection;
 
-/**
- * Created by Alex on 16.11.2017.
- */
 
 public class CollectionLookupService extends BaseLookupService<Collection, LookupServiceInterface.EmptyIncType> {
 

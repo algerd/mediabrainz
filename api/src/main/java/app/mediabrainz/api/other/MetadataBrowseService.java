@@ -9,9 +9,6 @@ import app.mediabrainz.api.Config;
 import app.mediabrainz.api.model.xml.Metadata;
 import app.mediabrainz.api.core.BaseWebService;
 
-/**
- * Created by Alex on 06.12.2017.
- */
 
 public class MetadataBrowseService extends BaseWebService implements MetadataBrowseServiceInterface {
 

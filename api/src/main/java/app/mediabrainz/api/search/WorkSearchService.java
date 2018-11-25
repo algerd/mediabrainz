@@ -8,8 +8,6 @@ import app.mediabrainz.api.model.Work.WorkSearch;
  * unconditional search: Work search terms with no fields specified search the WORK and ALIAS fields.
  *  new WorkSearchService().search("Frozen")
  *  new WorkSearchService().search("Frozen", 1, 10)
- *
- * Created by Alex on 20.11.2017.
  */
 
 public class WorkSearchService extends

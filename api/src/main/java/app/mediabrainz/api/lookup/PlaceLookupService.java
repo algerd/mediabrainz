@@ -6,9 +6,6 @@ import app.mediabrainz.api.model.Place;
 
 import static app.mediabrainz.api.lookup.IncType.*;
 
- /**
-  * Created by Alex on 16.11.2017.
-  */
 
 public class PlaceLookupService extends BaseLookupService<Place, PlaceLookupService.PlaceIncType> {
 

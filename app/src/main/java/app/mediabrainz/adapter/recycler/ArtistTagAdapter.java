@@ -6,14 +6,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import app.mediabrainz.app.R;
+import app.mediabrainz.R;
 import app.mediabrainz.api.site.TagEntity;
 
 import java.util.List;
 
-/**
- * Created by Alex on 17.01.2018.
- */
 
 public class ArtistTagAdapter extends BaseRecyclerViewAdapter<ArtistTagAdapter.ArtistTagViewHolder> {
 
